@@ -37,3 +37,12 @@ Bei der Entwicklung von IoT-Produkten und -Dienstleistungen sind folgende Faktor
 Um die zahlreichen unterschiedlichen Protokolle einzuordnen, ist zuerst die Zuordnung zu den entsprechenden OSI-Schichten notwendig. Danach können die unterschiedlichen IoT-Protokolle der Bit-Übertragungsschicht näher betrachtet werden. Speziell für die Anwendungsschicht wird im nächsten Kapitel auf das MQTT-Protokoll eingegangen.
 
 ![picture 2](assets/OSI_IoT.png)  
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+![Testbild](assets/c__Users_MÜJ_Nextcloud_Schule_Liascript_Test_assets_draw_test.png)
