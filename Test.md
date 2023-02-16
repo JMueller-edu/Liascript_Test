@@ -87,10 +87,97 @@ Dieser Zusammenhang ist in dem Signal-Betätigungsweg-Diagramm der Abb. 4 verdeu
 
 ![picture 4](assets/Taster_Betaetigung.png "Abb. 4: Verhalten der Taster-Kontakte bei Betätigung")  
 
-Die Farbe des Tasters (Abb. 5) weist auf die Funktion hin. Entsprechend der Abb. 6 werden den unterschied
-lichen Bedeutungen und Anwendungen bestimmte Far
-ben zugeordnet. Die Farbe Gelb wird zur Beseitigung
-einer anormalen Bedingung oder unerwünschten Ände-
-rung verwendet. Bei der Windenergieanlage wird Gelb
-daher für die Quittierung der Sturmschutz-Zeit verwen-
-det. Weitere festgelegte Farbkennzeichnungen gelten
+Die Farbe des Tasters (Abb. 5) weist auf die Funktion hin. Entsprechend der Abb. 6 werden den unterschiedlichen Bedeutungen und Anwendungen bestimmte Farben zugeordnet. Die Farbe Gelb wird zur Beseitigung einer anormalen Bedingung oder unerwünschten Änderung verwendet. Bei der Windenergieanlage wird Gelb daher für die Quittierung der Sturmschutz-Zeit verwendet. Weitere festgelegte Farbkennzeichnungen gelten in ähnlicher Form auch für Leuchtmelder und Leuchtdrucktaster[illuminated pushbuttons], in denen ein Leuchtmelder integriert ist.
+
+![picture 7](assets/Drucktaster_HMI.png "Abb. 5: Drucktaster und Touchpanel")  
+
+![picture 8](assets/Farbkennzeichnung.png "Abb. 6: Farbkennzeichnung für Drucktaster, Leuchtmelder und Leuchdrucktaster")  
+
+### Touch-Panel
+
+Alternativ zu den klassischen Bedienelementen Taster und Schalter werden zunehmend Touch-Panel eingesetzt (häufig als Human-Machine-lnterface, HMI
+bezeichnet). Dabei handelt es sich um berührungssensitive Bildschirme, auf denen Schaltflächen, Leuchtmelder, Ein-Ausgabe-Felder, frei skalierbare Festtexte, Grafiken und dynamische Balken zur Darstellung von
+Prozessgrößen angezeigt werden können. Durch Antippen der berührungssensitiven Bildschirmoberfläche können die Bedienfunktionen aktiviert werden. Die Informationen von und zum Panel werden direkt über eine Busleitung oder eine Parallelverdrahtung mit der Steuerung ausgetauscht. Die Anzeige kann mit einer Software beliebig konfiguriert werden.
+
+### Zusammenfassung
+
+- Taster, Schalter und Touch-Panel werden als Bedienelemente bezeichnet.
+- Taster und andere mechanische Schaltelemente, die mit Öffner- und Schließerkontakten ausgestattet sind, betätigen immer den Öffner-Kontakt bevor der Schließer schließt.
+- Taster, Schalter und Leuchtelemente werden entsprechend ihrer Aufgabe farblich gekennzeichnet.
+- Anzeigeinstrumente wie Leuchtmelder oder Touch-Panel zeigen den aktuellen Zustand der Steuerung an.
+
+## Näherungssensoren
+
+Alternativ zu den in der Windenergieanlage eingesetzten mechanischen Grenztastern, können auch Näherungssensoren [proximity sensors] verwendet
+werden.
+
+Während Endschalter durch mechanische Betätigung aktiviert werden, arbeiten Näherungssensoren berührungslos. Dadurch sind sie verschleißarm und auch in ungünstigen Umgebungen einsetzbar. Liefern die Sensoren am Ausgang lediglich binäre Signale, spricht man auch von Näherungsschaltern. Entsprechend ihrer Funktion können sie auch zur Materialerkennung bzw. -unterscheidung eingesetzt werden.
+
+![picture 9](assets/Naeherungssensoren.png "Abb.7: Näherungssensoren:")
+
+### Induktiver Näherungssensoren
+
+In einem induktiven Näherungssensor [inductiveproximity sensor] wird ein elektromagnetisches Wechselfeld erzeugt. Wird nun ein elektrisch leitfähiger Stoff vor diesen Sensor gebracht, so wird ihm Energie entzogen. Diese Änderung wird in dem Sensor ausgewertet und in ein Signal verwandelt. Ab welchem Abstand zum Sensor ein leitfähiges Werkstück erkannt wird (Schaltabstand), ist vom Sensortyp und dem zu erkennenden Material abhängig. Ein ferromagnetisches Material wird besser erkannt als andere leitfähige Werkstoffe wie Kupfer, Aluminium oder Messing.
+
+![picture 10](assets/Induktiver_Naeherungssensor.png "Abb 8.: Induktiver Näherungssensor")
+
+### Kapazitiver Näherungssensor
+
+Sein Funktionsprinzip ähnelt dem des induktiven Näherungssensors, wenngleich sie sich im inneren Aufbau grundlegend unterscheiden. Der kapazitive Sensor [capacitive proximity sensor] erfasst nicht leitende und leitende Gegenstände. Letztere jedoch etwas schlechter. Der Schaltabstand ist stark material- und abmessungsabhängig. So führt ein dickes Material zu einem größeren Schaltabstand als ein dünnes. In der Regel ist daher ein Einstellpotenziometer zur Kalibrierung vorhanden. Erkannt werden neben Metallen und Wasser (sehr gut) auch Karton, Glas, Kunststoff (mittelmäßig) und Öl (schwach). Bei Holz ist die Erkennbarkeit von der Holzfeuchtigkeit abhängig. Der Sensor reagiert empfindlich auf Luftfeuchtigkeit. Ein möglicher Ein satz liegt in der Füllstandserfassung durch die Verpackung hindurch, z. B. Karton oder Kunststoffbeutel. Sie
+werden zur Erfassung nicht metallener Stoffe verwendet. Induktive und kapazitive Näherungssensoren benötigen eine Versorgungsspannung.
+
+### Magnetischer Näherungssensor/Reedkontakt
+
+In magnetischen Näherungssensoren [magnetic proximity sensors] befindet sich meist ein Reedkontakt. Dabei handelt es sich um zwei ferromagnetische
+Kontaktzungen in einem Glasröhrchen. Wenn sich ein Dauermagnet oder eine stromdurchflossene Spule in deren Nähe befindet, ziehen sich die Zungen wie zwei Dauermagnete gegenseitig an. Dadurch wird der Stromkreis geschlossen.
+
+![picture 11](assets/Reed_Kontakt.png "Abb. 9+10: Reed-Kontakt / Magnetischer Näherungsschalter")
+
+Da auch bei Reedkontakten das Schaltsignal mechanisch erzeugt wird, ist auch ihre Lebensdauer nicht unbegrenzt (ca. 107 Schaltspiele). Mit nahezu unbegrenzter Lebensdauer (ca. 1010 Schaltspiele) arbeiten dagegen magnetoresistive Näherungsschalter. Nähert sich ihnen ein Magnet,
+ändert ein Halbleitermaterial in dem Sensor seinen Widerstand. Diese Widerstandsänderung wird in ein Schaltsignal umgewandelt.
+Der Sensor benötigt eine Spannungsversorgung.
+
+![picture 12](assets/Magnetoresistiver_Schalter.png "Abb. 11: Magnetoresistiver Näherungsschalter")  
+
+### Zusammenfassung
+
+- Sensoren sind Wandler, die eine physikalische Größe in eine andere (Spannung, Widerstand usw.) umwandeln.
+- Näherungssensoren arbeiten berührungslos.
+- Näherungssensoren, die am Ausgang ein Binärsignal liefern, nennt man Näherungsschalter.
+- Der Abstand, ab dem ein Material von einem Sensor erkannt wird, nennt man Schaltabstand.
+
+## Verständnisfragen
+
+1. Nennen Sie drei Betriebsmittel die als Bedienelement fungieren!
+
+
+   [[___ ___ ___ ___]]
+
+
+2. Welche beide Signalarten kommen in einer Steuerung häufig vor?
+
+    [[___ ___ ___ ___]]
+
+3. Worin unterscheiden sich diese beiden Signalarten?
+
+    [[___ ___ ___ ___]]
+4. Drucktaster, Leuchtmelder und Leuchtdrucktaster sind Farblich gekennzeichnet. Was bedeuten die Farben?
+
+    [[___ ___ ___ ___]]
+
+5. Was verbirgt sich hinter dem Begriff HMI?
+
+    [[___ ___ ___ ___]]
+
+6. Was sind Sensoren und wofür werden diese eingesetzt?
+
+    [[___ ___ ___ ___]]
+
+7. Welche Funktion und Arbeitsweise haben folgende Sensoren
+   
+   - Limit switches
+   - Inductive proximity sensors
+   - Capacitive proximity sensors
+   -  Magnetic proximity sensor
+
+    [[___ ___ ___ ___]]
