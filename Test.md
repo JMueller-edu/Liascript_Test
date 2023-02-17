@@ -150,34 +150,19 @@ Der Sensor benötigt eine Spannungsversorgung.
 
 1. Nennen Sie drei Betriebsmittel die als Bedienelement fungieren!
 
-
-   [[___ ___ ___ ___]]
-
-
 2. Welche beide Signalarten kommen in einer Steuerung häufig vor?
-
-    [[___ ___ ___ ___]]
 
 3. Worin unterscheiden sich diese beiden Signalarten?
 
-    [[___ ___ ___ ___]]
 4. Drucktaster, Leuchtmelder und Leuchtdrucktaster sind Farblich gekennzeichnet. Was bedeuten die Farben?
-
-    [[___ ___ ___ ___]]
 
 5. Was verbirgt sich hinter dem Begriff HMI?
 
-    [[___ ___ ___ ___]]
-
 6. Was sind Sensoren und wofür werden diese eingesetzt?
 
-    [[___ ___ ___ ___]]
-
 7. Welche Funktion und Arbeitsweise haben folgende Sensoren
-   
+
    - Limit switches
    - Inductive proximity sensors
    - Capacitive proximity sensors
    -  Magnetic proximity sensor
-
-    [[___ ___ ___ ___]]
