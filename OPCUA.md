@@ -1,12 +1,23 @@
 <!--
+author:   
 
-author:  
 email:   
+
 version:  0.0.1
-language: de
+
+language: Deutsch
+
 narrator: Deutsch Female
 
-import:   
+comment:  
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+translation: Deutsch  translations/German.md
+
+translation: Français translations/French.md
 -->
 # Machine-to-Machine-Kommunikation mit dem Standard OPC UA
 
