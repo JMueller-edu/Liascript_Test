@@ -28,4 +28,4 @@ import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
 Console.WriteLine("Hello, World!");
 ```
 
-@LIA.dotnet
+@LIA.eval(["Program.cs", "project.csproj"], dotnet build -nologo, dotnet run)
