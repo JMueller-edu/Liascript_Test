@@ -28,4 +28,4 @@ import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
 Console.WriteLine("Hello, World!");
 ```
 
-@LIA.eval(["Program.cs", "project.csproj"], dotnet build -nologo, dotnet run)
+@LIA.eval(["main.cs"], mcs main.cs, mono main.exe)
