@@ -18,9 +18,10 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 translation: Deutsch  translations/German.md
 
 translation: Français translations/French.md
--->
 
 import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
+-->
+# Switch Case
 
 ```csharp
 // See https://aka.ms/new-console-template for more information
