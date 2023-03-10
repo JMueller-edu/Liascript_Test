@@ -57,7 +57,7 @@ Es ist möglich, dass mehrere Fälle gelten. C# wählt jedoch den ersten überei
 
 #### Schritt 1: Verstehen der switch-Anweisung
 
-Führen Sie folgenden Code aus
+Führen Sie folgenden Code aus, indem sie auf den `</>` Button unter dem Codeblock klicken
 
 ```csharp
 int employeeLevel = 200;
