@@ -40,7 +40,9 @@ Am Ende dieses Moduls können Sie einfache Anwendungen erstellen, die Benutzerei
 
 ## Übung - Verwenden der switch-case-Anweisung
 
-In der Einleitung haben wir ein Szenario beschrieben, bei dem wir eine Zahl, die die Ebene des Mitarbeiters repräsentiert, mit dem Titel vergleichen mussten. In dieser Übung verwenden wir ein `switch-case`-Konstrukt, das diese Verzweigungslogik implementiert.
+In der Einleitung haben wir ein Szenario beschrieben, bei dem wir eine Zahl, die die Ebene des Mitarbeiters repräsentiert, mit dem Titel vergleichen mussten. 
+
+In dieser Übung verwenden wir ein `switch-case`-Konstrukt, das diese Verzweigungslogik implementiert.
 
 ### Was ist die switch-Anweisung?
 
@@ -145,7 +147,9 @@ Console.WriteLine($"{employeeName}, {title}");
    
 #### Schritt 3: Ändern der Anwendung zum Verwenden einer Methode zum Fortfahren
 
-Unser Unternehmen hat sich dazu entschieden, allen Mitarbeitern der Ebene 100 den Titel „Leitender Mitarbeiter“ zu verleihen, denselben Titel wie den Mitarbeitern der Ebene 200. Als Entwickler entscheiden Sie sich dafür, dies durch Entfernen des ersten zur Bezeichnung `case 100:` gehörenden switch-Abschnitts zu implementieren und stattdessen zuzulassen, dass sowohl die Bezeichnungen `case 100:` als auch `case 200:` denselben switch-Abschnitt ausführen.
+Unser Unternehmen hat sich dazu entschieden, allen Mitarbeitern der Ebene 100 den Titel „Leitender Mitarbeiter“ zu verleihen, denselben Titel wie den Mitarbeitern der Ebene 200. 
+
+Als Entwickler entscheiden Sie sich dafür, dies durch Entfernen des ersten zur Bezeichnung `case 100:` gehörenden switch-Abschnitts zu implementieren und stattdessen zuzulassen, dass sowohl die Bezeichnungen `case 100:` als auch `case 200:` denselben switch-Abschnitt ausführen.
 
 Zunächst ändern wird den Code, um `employeeLevel` auf `100` festzulegen:
 
@@ -162,7 +166,7 @@ Als nächstes ändern wir den Code in:
         break;
 ```
 
-Entsprechend ändert sich der gesamte Code folgendermaßen:
+Entsprechend sieht der geänderte Code folgendermaßen aus:
 
 ```csharp
 int employeeLevel = 100;
@@ -195,7 +199,6 @@ Console.WriteLine($"{employeeName}, {title}");
     data-randomize 
     data-solution-button="off"
 -->
-
 - [[ ]] John Smith Junior Associate
 - [[x]] John Smith Senior Associate
 - [[ ]] John Smith Manager
@@ -216,11 +219,15 @@ Hier sind die wichtigsten Erkenntnisse, die Sie zur switch-Anweisung gelernt hab
 
 ## Herausforderung
 
-Angenommen, Sie arbeiten für einen Souvenirladen in einer Universitätsstadt, der T-Shirts, Sweatshirts und andere Geschenkartikel mit dem Logo und den Farben der Universität verkauft. Ein monatlicher Umsatzbericht verwendet die vollständige Beschreibung sowie die Stock Keeping Unit (SKU) der verkauften Produkte. Sie wurden gebeten, bestimmte Teile des Codes neu zu schreiben, um dessen Lesbarkeit zu verbessern. Eine der Aufgaben besteht darin, die Konvertierung einer SKU in eine Beschreibung mithilfe der switch-Anweisung zu vereinfachen.
+Angenommen, Sie arbeiten für einen Souvenirladen in einer Universitätsstadt, der T-Shirts, Sweatshirts und andere Geschenkartikel mit dem Logo und den Farben der Universität verkauft. 
 
-### SKU-Code 
+Ein monatlicher Umsatzbericht verwendet die vollständige Beschreibung sowie die Stock Keeping Unit (SKU) der verkauften Produkte. Sie wurden gebeten, bestimmte Teile des Codes neu zu schreiben, um dessen Lesbarkeit zu verbessern. 
 
-Der folgende Code konvertiert eine SKU in eine ausführliche Beschreibung (z. B. steht die SKU 01-MN-L für „large maroon sweat shirt“ (kastanienbraunes Sweatshirt in Größe L)).
+Eine der Aufgaben besteht darin, die Konvertierung einer SKU in eine Beschreibung mithilfe der switch-Anweisung zu vereinfachen.
+
+### SKU-Code
+
+Der folgende Code konvertiert eine SKU in eine ausführliche Beschreibung (z. B. steht die SKU 01-MN-L für „large maroon sweat shirt“ (kastanienbraunes Sweatshirt in Größe L).
 
 ```csharp
 // SKU = Stock Keeping Unit
@@ -287,7 +294,8 @@ Console.WriteLine($"Product: {size} {color} {type}");
 @LIA.dotnet
 ## Quiz
 
-1. **Welche der folgenden Aussagen über das `switch-case`-Konstrukt trifft zu?**
+**Welche der folgenden Aussagen über das `switch-case`-Konstrukt trifft zu?**
+
 <!-- 
     data-randomize 
     data-solution-button="off"
@@ -297,7 +305,8 @@ Console.WriteLine($"Product: {size} {color} {type}");
 - [[ ]] Zwei case-Bezeichnungen können das gleiche Abgleichsmuster aufweisen.
 - [[ ]] Der Doppelpunkt am Ende der case-Bezeichnung ist optional.
 
-2. **Welchen Zweck hat das Schlüsselwort `new`?**
+**Welchen Zweck hat das Schlüsselwort `new`?**
+
 <!-- 
     data-randomize 
     data-solution-button="off"
