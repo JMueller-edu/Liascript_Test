@@ -20,6 +20,7 @@ translation: Deutsch  translations/German.md
 translation: Français translations/French.md
 
 import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
+
 -->
 # Verzweigung des Codeablaufs mit dem switch-case-Konstrukt in C\#
 
@@ -104,7 +105,8 @@ Um den Standardfall zu üben, ändern wir die Ebene des Mitarbeiters, indem wir 
 ```csharp
 int employeeLevel = 201;
 ```
-Welche Ausgabe erzeugt der Code jetzt?
+
+Somit lautet der neue Code:
 
 ```csharp
 int employeeLevel = 201;
@@ -133,7 +135,14 @@ switch (employeeLevel)
 
 Console.WriteLine($"{employeeName}, {title}");
 ```
+**Welche Ausgabe erzeugt der Code jetzt?**
 
+- [[ ]] John Smith Junior Associate
+- [[ ]] John Smith Senior Associate
+- [[ ]] John Smith Manager
+- [[ ]] John Smith Senior Manager
+- [[x]] John Smith Associate
+   
 #### Schritt 3: Ändern der Anwendung zum Verwenden einer Methode zum Fortfahren
 
 Unser Unternehmen hat sich dazu entschieden, allen Mitarbeitern der Ebene 100 den Titel „Leitender Mitarbeiter“ zu verleihen, denselben Titel wie den Mitarbeitern der Ebene 200. Als Entwickler entscheiden Sie sich dafür, dies durch Entfernen des ersten zur Bezeichnung `case 100:` gehörenden switch-Abschnitts zu implementieren und stattdessen zuzulassen, dass sowohl die Bezeichnungen `case 100:` als auch `case 200:` denselben switch-Abschnitt ausführen.
@@ -180,9 +189,22 @@ switch (employeeLevel)
 
 Console.WriteLine($"{employeeName}, {title}");
 ```
-Welche Ausgabe liefer der Code nun?
+**Welche Ausgabe liefert der Code nun?**
 
+<!-- 
+    data-randomize 
+    data-solution-button="off"
+-->
+
+- [[ ]] John Smith Junior Associate
+- [[x]] John Smith Senior Associate
+- [[ ]] John Smith Manager
+- [[ ]] John Smith Senior Manager
+- [[ ]] John Smith Associate
+***
 Beide case-Bezeichnungen (100 und 200) werden jetzt mit dem switch-Abschnitt gekoppelt, der den Titel auf den Zeichenfolgenwert Senior Associate festlegt.
+
+***
 
 ## Zusammenfassung
 
@@ -193,3 +215,94 @@ Hier sind die wichtigsten Erkenntnisse, die Sie zur switch-Anweisung gelernt hab
 - Verwenden Sie das optionale Schlüsselwort default, um eine Bezeichnung und einen switch-Abschnitt zu erstellen, die verwendet werden, wenn keine anderen case-Bezeichnungen übereinstimmen.
 
 ## Herausforderung
+
+Angenommen, Sie arbeiten für einen Souvenirladen in einer Universitätsstadt, der T-Shirts, Sweatshirts und andere Geschenkartikel mit dem Logo und den Farben der Universität verkauft. Ein monatlicher Umsatzbericht verwendet die vollständige Beschreibung sowie die Stock Keeping Unit (SKU) der verkauften Produkte. Sie wurden gebeten, bestimmte Teile des Codes neu zu schreiben, um dessen Lesbarkeit zu verbessern. Eine der Aufgaben besteht darin, die Konvertierung einer SKU in eine Beschreibung mithilfe der switch-Anweisung zu vereinfachen.
+
+### SKU-Code 
+
+Der folgende Code konvertiert eine SKU in eine ausführliche Beschreibung (z. B. steht die SKU 01-MN-L für „large maroon sweat shirt“ (kastanienbraunes Sweatshirt in Größe L)).
+
+```csharp
+// SKU = Stock Keeping Unit
+string sku = "01-MN-L";
+
+string[] product = sku.Split('-');
+
+string type = "";
+string color = "";
+string size = "";
+
+if (product[0] == "01")
+{
+    type = "Sweat shirt";
+} else if (product[0] == "02")
+{
+    type = "T-Shirt";
+} else if (product[0] == "03")
+{
+    type = "Sweat pants";
+}
+else
+{
+    type = "Other";
+}
+
+if (product[1] == "BL")
+{
+    color = "Black";
+} else if (product[1] == "MN")
+{
+    color = "Maroon";
+} else
+{
+    color = "White";
+}
+
+if (product[2] == "S")
+{
+    size = "Small";
+} else if (product[2] == "M")
+{
+    size = "Medium";
+} else if (product[2] == "L")
+{
+    size = "Large";
+} else
+{
+    size = "One Size Fits All";
+}
+
+Console.WriteLine($"Product: {size} {color} {type}");
+```
+
+**Ändern Sie den Code, um eine switch-Anweisung zu verwenden.**
+
+**Das Ergebnis sollte dasselbe sein.**
+
+```csharp
+// Hier können Sie ihren Code entwickeln.
+// Für Debug Funktionalität verwenden Sie bitte eine Entwicklungsumgebung.
+
+```
+@LIA.dotnet
+## Quiz
+
+1. **Welche der folgenden Aussagen über das `switch-case`-Konstrukt trifft zu?**
+<!-- 
+    data-randomize 
+    data-solution-button="off"
+-->
+- [[x]] Ein einzelner switch-Abschnitt kann mehrere case-Bezeichnungen aufweisen.
+- [[ ]] Ein switch-Konstrukt muss einen Standard-switch-Abschnitt enthalten.
+- [[ ]] Zwei case-Bezeichnungen können das gleiche Abgleichsmuster aufweisen.
+- [[ ]] Der Doppelpunkt am Ende der case-Bezeichnung ist optional.
+
+2. **Welchen Zweck hat das Schlüsselwort `new`?**
+<!-- 
+    data-randomize 
+    data-solution-button="off"
+-->
+- [[ ]] Das Schlüsselwort break weist die Runtime an, mit der Auswertung anderer case-Abschnitte im switch-Konstrukt fortzufahren.
+- [[x]] Das Schlüsselwort break weist die Runtime an, die Auswertung anderer case-Abschnitte im switch-Konstrukt zu beenden.
+- [[ ]] Das Schlüsselwort break weist die Runtime an, die Anwendung zu beenden.
+- [[ ]] Das Schlüsselwort break weist die Runtime an, die Methode zu beenden.
