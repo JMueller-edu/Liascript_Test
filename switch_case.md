@@ -1,7 +1,7 @@
 <!--
-author:   J.Müller
+author:
 
-email:    Jan.Mueller4@schule.hessen.de
+email:
 
 version:  0.0.1
 
@@ -139,12 +139,16 @@ Console.WriteLine($"{employeeName}, {title}");
 ```
 **Welche Ausgabe erzeugt der Code jetzt?**
 
+<!-- 
+    data-randomize 
+    data-solution-button="off"
+-->
 - [[ ]] John Smith Junior Associate
 - [[ ]] John Smith Senior Associate
 - [[ ]] John Smith Manager
 - [[ ]] John Smith Senior Manager
 - [[x]] John Smith Associate
-   
+ 
 #### Schritt 3: Ändern der Anwendung zum Verwenden einer Methode zum Fortfahren
 
 Unser Unternehmen hat sich dazu entschieden, allen Mitarbeitern der Ebene 100 den Titel „Leitender Mitarbeiter“ zu verleihen, denselben Titel wie den Mitarbeitern der Ebene 200. 
@@ -221,7 +225,7 @@ Hier sind die wichtigsten Erkenntnisse, die Sie zur switch-Anweisung gelernt hab
 
 Angenommen, Sie arbeiten für einen Souvenirladen in einer Universitätsstadt, der T-Shirts, Sweatshirts und andere Geschenkartikel mit dem Logo und den Farben der Universität verkauft. 
 
-Ein monatlicher Umsatzbericht verwendet die vollständige Beschreibung sowie die Stock Keeping Unit (SKU) der verkauften Produkte. Sie wurden gebeten, bestimmte Teile des Codes neu zu schreiben, um dessen Lesbarkeit zu verbessern. 
+Ein monatlicher Umsatzbericht verwendet die vollständige Beschreibung sowie die Stock Keeping Unit (SKU) der verkauften Produkte. Sie wurden gebeten, bestimmte Teile des Codes neu zu schreiben, um dessen Lesbarkeit zu verbessern.
 
 Eine der Aufgaben besteht darin, die Konvertierung einer SKU in eine Beschreibung mithilfe der switch-Anweisung zu vereinfachen.
 
