@@ -10,8 +10,7 @@ language: Deutsch
 
 narrator: Deutsch Female
 
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
+comment:  LF10 Elektroniker für Betriebstechnik
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -21,7 +20,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 # Schaltanlagen
 
-## Transformatoren
+## Transformatoren [^1]
 
 Die Drehstrom-Transformatoren wurden bereits im Lernfeld 5 behandelt. Die Schaltgruppen, deren Eigenschaften sowie der Schutz von Transformatoren wurden dort erläutert. Wir beschäftigen uns deshalb hier nur mit dem Transformator Tl unserer Anlage.
 
@@ -84,7 +83,8 @@ Wie bei jeder Parallelschaltung von Spannungsquellen muss auch hier darauf geach
 [[x]] Nahezu gleiche Kurzschlussspannungen
 [[x]] Verhältnis der Bemessungsleistungen < 3:1
 
-## Messeinrichtung
+[^1] Die Inhalte dieses Kapitels beinhalten Ausszüge aus dem Buch Elektrotechnik Betiebstechnik Lernfelder 5-13; 3. Auflage; Westermann Bildungsmedien Verlag GmbH; Kapitel 10.2.4
+## Messeinrichtung [^2]
 
 Die folgende Abbildung zeigt einen Ausschnitt aus dem Übersichtsschaltplan der Mittelspannungsschaltanlage der Firma Metallbau KG. Für den Zähleranschluss sind die Wandler B1 und B2 vorbereitet. Bevor jetzt Zähler installiert werden, müssen die Aufgaben,Schaltungen und Schutzmaßnahmen der Wandler bekannt sein. Im Folgenden werden deshalb die notwendigen Erläuterungen gegeben.
 
@@ -170,3 +170,5 @@ Beim Zähleraustausch müssen folgende Schritte in der aufgeführten Reihenfolge
 - [( ) ( ) ( ) (x) ( ) ( )]  Neuen Zähler einbauen und anschließen
 - [( ) ( ) ( ) ( ) (x) ( )]  Sicherungen in Spannungswandler-Zuleitungen einsetzten
 - [( ) ( ) ( ) ( ) ( ) (x)]  Kurzschluss-Brücken beim Stromwandler entfernen
+
+[^2] Die Inhalte dieses Kapitels beinhalten Ausszüge aus dem Buch Elektrotechnik Betiebstechnik Lernfelder 5-13; 3. Auflage; Westermann Bildungsmedien Verlag GmbH; Kapitel 10.2.5
