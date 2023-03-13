@@ -54,7 +54,7 @@ Wie bei jeder Parallelschaltung von Spannungsquellen muss auch hier darauf geach
 - **Nahezu gleiche Kurzschlussspannungen:** Ungleiche Kurzschlussspannungen führen zu ungleichmäßigen Belastungen der Transformatoren. Der Transformator mit der geringeren Kurzschlussspannung wird möglicherweise überlastet.
 - **Verhältnis der Bemessungsleistungen < 3:1:** Bei größeren Leistungsverhältnissen würde der „kleinere" Transformator überlastet werden.
 
-### Zusammenfassung Transformatoren
+### Zusammenfassung
 
 - Ausgleichsströme belasten Transformatoren, ohne dass eine Energieübertragung zur Last vorliegt.
 - Gleiche Transformator-Kenngrößen vermeiden Ausgleichsströme.
