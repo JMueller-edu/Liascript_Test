@@ -59,7 +59,13 @@ Wie bei jeder Parallelschaltung von Spannungsquellen muss auch hier darauf geach
 - Ausgleichsströme belasten Transformatoren, ohne dass eine Energieübertragung zur Last vorliegt.
 - Gleiche Transformator-Kenngrößen vermeiden Ausgleichsströme.
 
-### Quiz Transformatoren
+### Verständisfragen Transformatoren
+
+**Erläutern Sie die wichtigsten Bemessungsdaten eines Transformators!**
+
+**Erklären Sie welche Anforderungen parallel geschaltete Transformator erfüllen sollten?**
+
+### Quizz Transformatoren
 
 **Ordnen Sie die im folgenden Typenschild gekennzeichneten Bemessungsdaten zu!**
 
@@ -82,7 +88,7 @@ Wie bei jeder Parallelschaltung von Spannungsquellen muss auch hier darauf geach
     data-solution-button="off"
 -->
 [[x]] Gleiche Bemessungsspannungen
-[[x]] Geliche Kennzahlen
+[[x]] Gleiche Kennzahlen
 [[x]] Möglichest gleiche Übersetzungsverhältnisse
 [[x]] Nahezu gleiche Kurzschlussspannungen
 [[x]] Verhältnis der Bemessungsleistungen < 3:1
@@ -158,8 +164,14 @@ Beim Zähleraustausch müssen folgende Schritte in der aufgeführten Reihenfolge
 - Stromwandlerklemmen dürfen nicht offen sein. Entweder ist ein Gerät angeschlossen oder die Klemmen sind kurzgeschlossen.
 - Stromwandler dürfen nicht abgesichert werden.
 - Spannungswandler müssen abgesichert werden.
-  
-### Quiz Messeinrichtungen
+
+### Verständnisfragen Messeinrichtung
+
+**Wie werden Wandler Eingestetzt?**
+
+**Erläutern Sie wie Zähler angeschlossen werden!**
+
+### Quizz Messeinrichtungen
 
 **Ordnen Sie die Schritte beim Zählertausch chronologisch!**
 
