@@ -1,5 +1,5 @@
 <!--
-author:   
+author:   Jan Müller
 
 email:    
 
@@ -9,7 +9,7 @@ language: Deutsch
 
 narrator: Deutsch Female
 
-comment:  
+comment:  LF14 Höhere Berufsfachschule Information Technik
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -41,14 +41,15 @@ Zusammenfassend lässt sich sagen, dass Lasten- und Pflichtenhefte wesentliche W
 
 Welche Gründe sprechen für das Verfassen eines Lasten- und Pflichtenheft?
 
-<!-- data-randomize -->
-    [(x)] Klare Kommunikation
-    [(x)] Vermeidung von Missverständnissen
-    [(x)] Effiziente Projektumsetzung
-    [(x)] Qualitätssicherung
-    [(x)] Risikomanagement
-    [( )] Abwälzung von Verantwortlichkeiten
-    [( )] Verbessern der Schreibkompetenz
+<!-- data-randomize 
+     data-solution-button="off" -->
+    [[x]] Klare Kommunikation
+    [[x]] Vermeidung von Missverständnissen
+    [[x]] Effiziente Projektumsetzung
+    [[x]] Qualitätssicherung
+    [[x]] Risikomanagement
+    [[ ]] Abwälzung von Verantwortlichkeiten
+    [[ ]] Verbessern der Schreibkompetenz
     
 ## Was ist der Unterschied zwischen einem Pflichten- und Lastenheft?
 
@@ -60,12 +61,22 @@ Ein **Lastenheft** und ein **Pflichtenheft** sind beide wichtige Dokumente in de
 
 Zusammenfassend lässt sich sagen, dass das Lastenheft die Anforderungen und Erwartungen des Auftraggebers darstellt, während das Pflichtenheft den Plan des Auftragnehmers zur Erfüllung dieser Anforderungen darstellt.
 
+### Quiz
+
+Ordne den Beschreibungen den jeweils richtigen Begriff zu!
+
+<!-- data-solution-button="off" -->
+| Begriff | Beschreibung |
+|---------|-------------|
+| [[ Lastenheft | (Pflichtenheft) ]] | Dieses Dokument wird vom Auftragnehmer erstellt und basiert auf dessen Anforderungen und Erwartungen.|
+| [[ (Lastenheft) | Pflichtenheft ]] | Dieses Dokument wird vom Auftraggeber erstellt und enthält eine detaillierte Beschreibung der Anforderungen und Erwartungen an das Projekt.|
+
 ## Inhalt eines Lastenheft nach DIN
 
 Ein Lastenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1] [^2] [^3] [^4]:
 
 1. **Einführung**: Eine kurze Beschreibung des Projekts und seiner Ziele.
-2. **Beschreibung des Istzustands**: Eine Darstellung der aktuellen Situation, aus der das Projekt hervorgeht.
+2. **Beschreibung des Ist-zustands**: Eine Darstellung der aktuellen Situation, aus der das Projekt hervorgeht.
 3. **Beschreibung des Soll-Konzepts**: Eine detaillierte Beschreibung dessen, was das Projekt erreichen soll.
 4. **Spezifikation des zu erbringenden Werks (Liefergegenstand, Lieferobjekt, Projektprodukt)**: Eine genaue Beschreibung dessen, was das Projekt liefern soll.
 5. **Die Anforderungen an das Produkt bei seiner späteren Verwendung**: Zum Beispiel der Temperaturbereich, in dem das Produkt funktionieren soll.
@@ -85,6 +96,26 @@ Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers
 [^3] Lastenheft: Alle wichtigen Informationen nachlesen | Lexware. https://www.lexware.de/wissen/unternehmerlexikon/lastenheft/.
 
 [^4] Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
+
+### Quiz
+
+Ordnen Sie die folgenden Kapitel eines Lastenhefts chronologisch!
+
+<!-- data-randomize 
+     data-solution-button="off" -->
+| Kapitelnummer | Kapitelüberschrift |
+|---------------|--------------------|
+| 1. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | (Einführung) | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
+| 2. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | (Beschreibung des Ist-zustands) | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
+| 3. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | (Beschreibung des Soll-Konzepts) | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
+| 4. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | (Spezifikation des zu erbringenden Werks) | Vertragliche Konditionen ]] |
+| 5. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | (Die Anforderungen an das Produkt bei seiner späteren Verwendung) | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
+| 6. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | (Rahmenbedingungen für Produkt und Leistungserbringung) | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
+| 7. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | (Vertragliche Konditionen) ]] |
+| 8. | [[ Abnahmekriterien | (Anforderungen an den Auftraggeber) | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
+| 9. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | (Anforderungen an das Projektmanagement des Auftragnehmers) | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
+| 10. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | (Lieferumfang) | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
+| 11. | [[ (Abnahmekriterien) | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
 
 ## Inhalte eines Pflichtenheft nach DIN
 
@@ -109,6 +140,7 @@ Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers
 
 [^4] Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
 
+### Quiz
 ## Schritte zum Erstellen eines Lastenhefts
 
 Die Erstellung eines Lastenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten[^1] [^3]:
@@ -145,6 +177,7 @@ Es ist wichtig, dass das Lastenheft immer den aktuellen Zustand des Projektvorha
 
 [^5] Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
 
+### Quiz
 ## Schritte zum Erstellen eines Pflichtenhefts
 
 Die Erstellung eines Pflichtenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten[^1] [^2] [^3] [^4] :
@@ -180,6 +213,7 @@ www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
 
 [^4] Pflichtenheft: Erstellen, Aufgaben, Aufbau, Inhalte - induux Wiki. https://wiki.induux.de/Pflichtenheft.
 
+### Quiz
 ## Beispiel für ein Lasten- und Pflichtenheft
 
 **Lastenheft für ein neues CRM-System**
@@ -199,7 +233,7 @@ www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
 
 Bitte beachten Sie, dass dies nur ein sehr einfaches Beispiel ist und ein tatsächliches Lasten- und Pflichtenheft viel detaillierter sein würde, abhängig von der Komplexität des Projekts. Es ist wichtig, dass beide Dokumente sorgfältig erstellt und überprüft werden, um sicherzustellen, dass sie alle Anforderungen und Erwartungen des Projekts abdecken.
 
-## Aufgabe Lastenheft -> Pflichtenheft
+### Aufgabe Lastenheft -> Pflichtenheft
 
 Erstelle für die folgenden drei Lastenhefte jeweils schriftlich ein kurzes Pflichtenheft.
 
@@ -210,6 +244,8 @@ Erstelle für die folgenden drei Lastenhefte jeweils schriftlich ein kurzes Pfli
 3. **Rahmenbedingungen**: Die Website muss auf allen gängigen Browsern funktionieren und mit unserem bestehenden Bestellsystem kompatibel sein.
 4. **Vertragliche Konditionen**: Das Projekt sollte innerhalb von drei Monaten abgeschlossen sein und das Budget darf 10.000 Euro nicht überschreiten.
 
+[[___ ___ ___ ___]]
+
 **Lastenheft 2: Entwicklung einer mobilen App für ein Fitnessstudio**
 
 1. **Einführung**: Unser Fitnessstudio plant die Entwicklung einer mobilen App, um unseren Mitgliedern ein besseres Trainingserlebnis zu bieten.
@@ -217,9 +253,13 @@ Erstelle für die folgenden drei Lastenhefte jeweils schriftlich ein kurzes Pfli
 3. **Rahmenbedingungen**: Die App muss auf iOS- und Android-Geräten funktionieren und mit unserem bestehenden Buchungssystem kompatibel sein.
 4. **Vertragliche Konditionen**: Das Projekt sollte innerhalb von sechs Monaten abgeschlossen sein und das Budget darf 50.000 Euro nicht überschreiten.
 
+[[___ ___ ___ ___]]
+
 **Lastenheft 3: Entwicklung eines Online-Buchungssystems für ein Hotel**
 
 1. **Einführung**: Unser Hotel benötigt ein neues Online-Buchungssystem, um unseren Gästen ein besseres Buchungserlebnis zu bieten.
 2. **Anforderungen**: Das System sollte in der Lage sein, Zimmerverfügbarkeiten anzuzeigen, Buchungen zu verarbeiten und Zahlungen zu akzeptieren.
 3. **Rahmenbedingungen**: Das System muss mit unseren bestehenden IT-Systemen kompatibel sein und den Datenschutzbestimmungen entsprechen.
 4. **Vertragliche Konditionen**: Das Projekt sollte innerhalb von neun Monaten abgeschlossen sein und das Budget darf 100.000 Euro nicht überschreiten.
+
+[[___ ___ ___ ___]]
