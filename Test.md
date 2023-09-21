@@ -47,7 +47,7 @@ Bei Binärsignalen sind nur zwei Zustände möglich (bi: lat. zwei). Diese könn
 
 #### Beispiel
 
-- Ein unbetätigter Schließer (Kontakt, der im unbetätigten Zustand geöffnet ist, (2)) ist „0", „Aus" oder „Low" (kurz „L").
+- Ein unbetätigter Schließer (Kontakt, der im unbetätigten Zustand geöffnet ist, [^2]) ist „0", „Aus" oder „Low" (kurz „L").
 - Ein betätigter Schließer @ ist „1", „An"oder „High" (kurz „H").
 
 ![Abb.2: Schließer und Öffner](assets/Pegel.png "Abb.2: Schließer und Öffner") 
@@ -82,7 +82,7 @@ Drucktaster, Schalter und Touch-Panel werden zur Befehlseingabe von Hand verwend
 
 ### Drucktaster und Schalter
 
-Ist ein Taster (Abb. 4) sowohl mit Schließer- als auch Öffner-Kontakten ausgestattet, muss beachtet werden, dass bei einer Betätigung immer zunächst der Öffnerkontakt (1) öffnet, bevor der Schließerkontakt (2) schließt (Tasterverriegelung).
+Ist ein Taster (Abb. 4) sowohl mit Schließer- als auch Öffner-Kontakten ausgestattet, muss beachtet werden, dass bei einer Betätigung immer zunächst der Öffnerkontakt [^1] öffnet, bevor der Schließerkontakt [^2] schließt (Tasterverriegelung).
 Dieser Zusammenhang ist in dem Signal-Betätigungsweg-Diagramm der Abb. 4 verdeutlicht.
 
 ![picture 4](assets/Taster_Betaetigung.png "Abb. 4: Verhalten der Taster-Kontakte bei Betätigung")  

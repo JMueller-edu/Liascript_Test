@@ -49,7 +49,7 @@ Zusammenfassend lässt sich sagen, dass das Lastenheft die Anforderungen und Erw
 
 ## Inhalt eines Lastenheft nach DIN
 
-Ein Lastenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1] ¹²³⁴:
+Ein Lastenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1] [^2] [^3] [^4]:
 
 1. **Einführung**: Eine kurze Beschreibung des Projekts und seiner Ziele.
 2. **Beschreibung des Istzustands**: Eine Darstellung der aktuellen Situation, aus der das Projekt hervorgeht.
@@ -67,15 +67,15 @@ Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers
 
 [^1] Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
 
-(2) Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
+[^2] Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
 
-(3) Lastenheft: Alle wichtigen Informationen nachlesen | Lexware. https://www.lexware.de/wissen/unternehmerlexikon/lastenheft/.
+[^3] Lastenheft: Alle wichtigen Informationen nachlesen | Lexware. https://www.lexware.de/wissen/unternehmerlexikon/lastenheft/.
 
-(4) Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
+[^4] Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
 
 ## Inhalte eines Pflichtenheft nach DIN
 
-Ein Pflichtenheft nach DIN 69901-5 sollte folgende Punkte enthalten¹²⁴:
+Ein Pflichtenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1] [^2] [^4]:
 
 1. **Geltungsbereich**: Beschreibung des Anwendungsbereichs des Projekts oder Produkts.
 2. **Allgemeine Anforderungen**: Übersicht über die allgemeinen Anforderungen, die das Projekt oder Produkt erfüllen muss.
@@ -86,86 +86,86 @@ Ein Pflichtenheft nach DIN 69901-5 sollte folgende Punkte enthalten¹²⁴:
 7. **Produktlebensdauer**: Angaben zur erwarteten Lebensdauer des Produkts.
 8. **Spezifikationen**: Detaillierte technische Spezifikationen des Projekts oder Produkts.
 
-Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers klar und präzise zu kommunizieren und bilden die Grundlage für die Projektarbeit. Sie ermöglichen es dem Auftragnehmer, einen detaillierten Plan für die Umsetzung des Projekts zu erstellen. Es ist wichtig zu beachten, dass das Pflichtenheft auf den Ausführungen basiert, die der Auftraggeber im Lastenheft niedergeschrieben hat¹.
+Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers klar und präzise zu kommunizieren und bilden die Grundlage für die Projektarbeit. Sie ermöglichen es dem Auftragnehmer, einen detaillierten Plan für die Umsetzung des Projekts zu erstellen. Es ist wichtig zu beachten, dass das Pflichtenheft auf den Ausführungen basiert, die der Auftraggeber im Lastenheft niedergeschrieben hat[^1].
 
-(1) Was ist ein Pflichtenheft? Inhalte, Beispiel & Vorlage - IONOS. https://www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
+[^1] Was ist ein Pflichtenheft? Inhalte, Beispiel & Vorlage - IONOS. https://www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
 
-(2) Pflichtenheft – Wikipedia. https://de.wikipedia.org/wiki/Pflichtenheft.
+[^2] Pflichtenheft – Wikipedia. https://de.wikipedia.org/wiki/Pflichtenheft.
 
-(3) Pflichtenheft Erstellung – Gliederung, Normen und Standards. https://www.christianziemann.de/produktmanagement/pflichtenheft/.
+[^3] Pflichtenheft Erstellung – Gliederung, Normen und Standards. https://www.christianziemann.de/produktmanagement/pflichtenheft/.
 
-(4) Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
+[^4] Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
 
 ## Schritte zum Erstellen eines Lastenhefts
 
-Die Erstellung eines Lastenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten¹³:
+Die Erstellung eines Lastenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten[^1] [^3]:
 
-1. **Funktionsanalyse**: Bevor Sie mit dem Verfassen des Lastenhefts beginnen, müssen die funktionalen Anforderungen festgelegt werden. Dafür muss zunächst der Bedarf identifiziert werden und dieser dann in Funktionalitäten übersetzt werden¹.
+1. **Funktionsanalyse**: Bevor Sie mit dem Verfassen des Lastenhefts beginnen, müssen die funktionalen Anforderungen festgelegt werden. Dafür muss zunächst der Bedarf identifiziert werden und dieser dann in Funktionalitäten übersetzt werden[^1].
 
-2. **Anforderungen an die Lösung sammeln und erfassen**: Sammeln Sie alle Anforderungen, die das Projekt erfüllen muss³.
+2. **Anforderungen an die Lösung sammeln und erfassen**: Sammeln Sie alle Anforderungen, die das Projekt erfüllen muss[^3].
 
-3. **Stakeholder befragen**: Befragen Sie Nutzer, Betroffene und andere Stakeholder, um ihre Anforderungen und Erwartungen zu verstehen³.
+3. **Stakeholder befragen**: Befragen Sie Nutzer, Betroffene und andere Stakeholder, um ihre Anforderungen und Erwartungen zu verstehen[^3].
 
-4. **Aus User Storys Anforderungen ableiten**: Wenn Sie agile Methoden verwenden, können Sie aus User Storys Anforderungen ableiten³.
+4. **Aus User Storys Anforderungen ableiten**: Wenn Sie agile Methoden verwenden, können Sie aus User Storys Anforderungen ableiten[^3].
 
-5. **Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen**: Überprüfen Sie bestehende Dokumente und Systeme und berechnen Sie relevante Kenngrößen³.
+5. **Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen**: Überprüfen Sie bestehende Dokumente und Systeme und berechnen Sie relevante Kenngrößen[^3].
 
-6. **Anforderungen bewerten und Lösungsvorgaben festlegen**: Bewerten Sie die gesammelten Anforderungen und legen Sie Vorgaben für die Lösung fest³.
+6. **Anforderungen bewerten und Lösungsvorgaben festlegen**: Bewerten Sie die gesammelten Anforderungen und legen Sie Vorgaben für die Lösung fest[^3].
 
-7. **Prioritäten festlegen**: Legen Sie fest, welche Anforderungen am wichtigsten sind und welche weniger Priorität haben³.
+7. **Prioritäten festlegen**: Legen Sie fest, welche Anforderungen am wichtigsten sind und welche weniger Priorität haben[^3].
 
-8. **Anforderungen im Lastenheft benennen und exakt beschreiben**: Benennen und beschreiben Sie jede Anforderung im Lastenheft so genau wie möglich³.
+8. **Anforderungen im Lastenheft benennen und exakt beschreiben**: Benennen und beschreiben Sie jede Anforderung im Lastenheft so genau wie möglich[^3].
 
-9. **Rahmenbedingungen klären**: Klären Sie alle Rahmenbedingungen für das Projekt, wie z.B. Budget, Zeitplan, rechtliche Anforderungen usw³.
+9. **Rahmenbedingungen klären**: Klären Sie alle Rahmenbedingungen für das Projekt, wie z.B. Budget, Zeitplan, rechtliche Anforderungen usw[^3].
 
-10. **Lastenheft überprüfen und freigeben**: Lassen Sie das Lastenheft von allen relevanten Stakeholdern überprüfen und freigeben¹.
+10. **Lastenheft überprüfen und freigeben**: Lassen Sie das Lastenheft von allen relevanten Stakeholdern überprüfen und freigeben[^1].
 
-Es ist wichtig, dass das Lastenheft immer den aktuellen Zustand des Projektvorhabens widerspiegelt und das Gesamtvorhaben und die dort enthaltenen Voraussetzungen nicht in Frage stellt⁵. Bei der Erstellung des Lastenhefts sollte unbedingt auf eine klare und deutliche Formulierung aller Anforderungen und Ziele geachtet werden⁵.
+Es ist wichtig, dass das Lastenheft immer den aktuellen Zustand des Projektvorhabens widerspiegelt und das Gesamtvorhaben und die dort enthaltenen Voraussetzungen nicht in Frage stellt[^5]. Bei der Erstellung des Lastenhefts sollte unbedingt auf eine klare und deutliche Formulierung aller Anforderungen und Ziele geachtet werden[^5].
 
-(1) Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
+[^1] Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
 
-(2) Lastenheft erstellen Wie wird ein Lastenheft erstellt? - business-wissen.de. https://bing.com/search?q=Erstellung+eines+Lastenhefts.
+[^2] Lastenheft erstellen Wie wird ein Lastenheft erstellt? - business-wissen.de. https://bing.com/search?q=Erstellung+eines+Lastenhefts.
 
-(3) Lastenheft - Beispiel, Inhalt, Aufbau, Definition | VARIO Lexikon. https://lexikon.vario-software.de/lastenheft/.
+[^3] Lastenheft - Beispiel, Inhalt, Aufbau, Definition | VARIO Lexikon. https://lexikon.vario-software.de/lastenheft/.
 
-(4) Lastenheft: Aufbau, Erstellung, Definition | CONSULTING.de. https://www.consulting.de/artikel/lastenheft-aufbau-erstellung-definition/.
+[^4] Lastenheft: Aufbau, Erstellung, Definition | CONSULTING.de. https://www.consulting.de/artikel/lastenheft-aufbau-erstellung-definition/.
 
-(5) Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
+[^5] Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
 
 ## Schritte zum Erstellen eines Pflichtenhefts
 
-Die Erstellung eines Pflichtenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten¹²³⁴:
+Die Erstellung eines Pflichtenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten[^1] [^2] [^3] [^4] :
 
-1. **Dokumentation der Ausgangslage und Definition der Ziele**: Bevor Sie mit dem Verfassen des Pflichtenhefts beginnen, müssen Sie den aktuellen Zustand dokumentieren und die Ziele des Projekts definieren³⁴.
+1. **Dokumentation der Ausgangslage und Definition der Ziele**: Bevor Sie mit dem Verfassen des Pflichtenhefts beginnen, müssen Sie den aktuellen Zustand dokumentieren und die Ziele des Projekts definieren[^3] [^4] .
 
-2. **Beschreibung der Prozessabläufe**: Beschreiben Sie die Prozessabläufe und identifizieren Sie deren Stärken und Schwächen³⁴.
+2. **Beschreibung der Prozessabläufe**: Beschreiben Sie die Prozessabläufe und identifizieren Sie deren Stärken und Schwächen[^3] [^4] .
 
-3. **Erstellung einer Soll-Konzeption**: Erstellen Sie ein Soll-Konzept, das die Anforderungen des Auftraggebers beschreibt³⁴.
+3. **Erstellung einer Soll-Konzeption**: Erstellen Sie ein Soll-Konzept, das die Anforderungen des Auftraggebers beschreibt[^3] [^4] .
 
-4. **Technische Struktur**: Beginnen Sie mit der Beschreibung der technischen Struktur³.
+4. **Technische Struktur**: Beginnen Sie mit der Beschreibung der technischen Struktur[^3] .
 
-5. **Tabellarische Übersicht**: Erstellen Sie eine tabellarische Übersicht über die wichtigsten Daten, Notizen und Anmerkungen³.
+5. **Tabellarische Übersicht**: Erstellen Sie eine tabellarische Übersicht über die wichtigsten Daten, Notizen und Anmerkungen[^3] .
 
-6. **Funktionalität und technische Anforderungen**: Beschreiben Sie detailliert die funktionalen und technischen Anforderungen des Projekts².
+6. **Funktionalität und technische Anforderungen**: Beschreiben Sie detailliert die funktionalen und technischen Anforderungen des Projekts[^2] .
 
-7. **Realistische Zeit- und Ressourcenplanung**: Legen Sie realistische Zeitpläne und Budgets fest, die auf den im Pflichtenheft definierten Anforderungen basieren².
+7. **Realistische Zeit- und Ressourcenplanung**: Legen Sie realistische Zeitpläne und Budgets fest, die auf den im Pflichtenheft definierten Anforderungen basieren[^2] .
 
-8. **Mögliche Risiken identifizieren**: Identifizieren und bewerten Sie mögliche Risiken, die während der Projektlaufzeit auftreten können, und entwickeln Sie entsprechende Gegenmaßnahmen, um diese abzumildern².
+8. **Mögliche Risiken identifizieren**: Identifizieren und bewerten Sie mögliche Risiken, die während der Projektlaufzeit auftreten können, und entwickeln Sie entsprechende Gegenmaßnahmen, um diese abzumildern[^2] .
 
-9. **Umsetzung von Test- und Qualitätsmanagementprozessen**: Etablieren Sie geeignete Testverfahren und einen Qualitätsmanagementprozess, um sicherzustellen, dass das Endprodukt den im Pflichtenheft festgelegten Anforderungen entspricht².
+9. **Umsetzung von Test- und Qualitätsmanagementprozessen**: Etablieren Sie geeignete Testverfahren und einen Qualitätsmanagementprozess, um sicherzustellen, dass das Endprodukt den im Pflichtenheft festgelegten Anforderungen entspricht[^2] .
 
-10. **Pflichtenheft überprüfen und freigeben**: Lassen Sie das Pflichtenheft von allen relevanten Stakeholdern überprüfen und freigeben¹.
+10. **Pflichtenheft überprüfen und freigeben**: Lassen Sie das Pflichtenheft von allen relevanten Stakeholdern überprüfen und freigeben[^1] .
 
-Es ist wichtig zu beachten, dass das Pflichtenheft auf den Ausführungen basiert, die der Auftraggeber im Lastenheft niedergeschrieben hat¹.
+Es ist wichtig zu beachten, dass das Pflichtenheft auf den Ausführungen basiert, die der Auftraggeber im Lastenheft niedergeschrieben hat[^1] .
 
-(1) Was ist ein Pflichtenheft? Inhalte, Beispiel & Vorlage - IONOS. https://
+[^1] Was ist ein Pflichtenheft? Inhalte, Beispiel & Vorlage - IONOS. https://
 www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
 
-(2) Pflichtenheft: Best Practices und rechtliche Aspekte. https://kanzlei-herfurtner.de/pflichtenheft/.
+[^2] Pflichtenheft: Best Practices und rechtliche Aspekte. https://kanzlei-herfurtner.de/pflichtenheft/.
 
-(3) Was ist ein Pflichtenheft? ️ Logistik-Lexikon. https://www.prologistik.com/logistik-lexikon/pflichtenheft.
+[^3] Was ist ein Pflichtenheft? ️ Logistik-Lexikon. https://www.prologistik.com/logistik-lexikon/pflichtenheft.
 
-(4) Pflichtenheft: Erstellen, Aufgaben, Aufbau, Inhalte - induux Wiki. https://wiki.induux.de/Pflichtenheft.
+[^4] Pflichtenheft: Erstellen, Aufgaben, Aufbau, Inhalte - induux Wiki. https://wiki.induux.de/Pflichtenheft.
 
 ## Beispiel für ein Lasten- und Pflichtenheft
 
