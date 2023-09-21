@@ -18,6 +18,8 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 -->
 
 # Überblick Lasten- und Pflichtenheft
+
+![Lasten_Pflichtenheft](assets/image.png)
  
 ##  Warum wird ein Lasten- und Pflichtenheft benötigt?
 
@@ -98,7 +100,7 @@ Source: Conversation with Bing, 21.9.2023
 
 (4) Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
 
-## Schritte zum erstellen eines Lastenhefts
+## Schritte zum Erstellen eines Lastenhefts
 
 Die Erstellung eines Lastenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten¹³:
 
@@ -136,7 +138,7 @@ Source: Conversation with Bing, 21.9.2023
 
 (5) Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
 
-## Schritte zum erstellen eines Pflichtenhefts
+## Schritte zum Erstellen eines Pflichtenhefts
 
 Die Erstellung eines Pflichtenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten¹²³⁴:
 
