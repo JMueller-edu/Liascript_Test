@@ -28,7 +28,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 Die Drehstrom-Transformatoren wurden bereits im Lernfeld 5 behandelt. Die Schaltgruppen, deren Eigenschaften sowie der Schutz von Transformatoren wurden dort erläutert. Wir beschäftigen uns deshalb hier nur mit dem Transformator Tl unserer Anlage.
 
-![Abb.: Übersichtsplan Schaltanlage](assets/Schaltanlage_Uebersicht.png) 
+![Abb.: Übersichtsplan Schaltanlage](assets/Schaltanlage_Uebersicht.png)
  
 ### Analyse wichtiger Bemessungsdaten
 
