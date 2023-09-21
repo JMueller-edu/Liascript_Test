@@ -1,0 +1,185 @@
+<!--
+author:   
+
+email:    
+
+version:  0.0.1
+
+language: Deutsch
+
+narrator: Deutsch Female
+
+comment:  
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+-->
+
+# Bussysteme
+
+## Bussystemen in der Elektrotechnik
+
+Bussysteme in der Elektrotechnik, auch bekannt als Binary Unit System, sind Datenübertragungssysteme, die zum standardisierten Verbinden dezentral angeordneter Geräte, der sogenannten Busteilnehmer, dienen⁴. Sie ermöglichen den einheitlichen Austausch von Daten zwischen verschiedenen Teilnehmern bzw. Komponenten⁵. 
+
+Die übertragenen Daten dienen dem Melden und Steuern und anderen betriebstechnischen Funktionen⁴. Bussysteme bilden die Voraussetzung für eine umfassende Gebäudeautomation⁴. Sie sind vergleichbar mit dem menschlichen Blutkreislauf, der Nährstoffe zu den einzelnen Organen transportiert, und bringen Energie und Daten zu den einzelnen Komponenten des Netzwerks³.
+
+Einige Beispiele für Bussysteme sind PROFIBUS, CAN, I²C und Ethernet¹. Diese Systeme müssen elektrisch und mechanisch sehr robust sein, um in einer rauen industriellen Umgebung zuverlässig zu funktionieren¹. 
+
+Moderne Bussysteme zeichnen sich dadurch aus, dass nicht jeder Sensor eine eigene Leitung z.B. zu einer Zentralsteuereinheit hat, sondern dass nur eine einzige Leitung existiert, die durch alle Sensoren geführt wird¹. Die Informationen werden daher nicht mehr gleichzeitig auf parallelen laufenden Leitungen, sondern zeitversetzt seriell auf einer gemeinsamen Leitung übertragen¹. Dazu muss jeder Information eine Adresse zur Identifikation mitgegeben werden¹.
+
+Source: Conversation with Bing, 21.9.2023
+
+(1) BUS-Technik | Heizung | Regelung | Baunetz_Wissen. https://www.baunetzwissen.de/heizung/fachwissen/regelung/bus-technik-161246.
+
+(2) Was ist Bus (Elektrotechnik)? Binary Unit System - schnell erklärt. https://heinen-elektronik.de/glossar/bus/.
+
+(3) Industrielle Bussysteme – Funktionsweise und Anforderungen. https://industrie-wegweiser.de/bussysteme/.
+
+(4) Was sind Bussysteme, Schnittstellen und Sensornetze? Erklärung .... https://www.industry-of-things.de/was-sind-bussysteme-schnittstellen-und-sensornetze-erklaerung-funktionsweise-und-ueberblick-a-683219/.
+
+(5) Bussystem Grundprinzip | Aufbau Bussystem | Funktion Bussystem. https://dein-elektriker-info.de/grundprinzip-bussystem/.
+
+## Vorteile von Bussystemen
+
+Bussysteme werden in der Elektrotechnik aus verschiedenen Gründen verwendet:
+
+1. **Automatisierung und Kontrolle**: Mithilfe von Bussystemen können verschiedene Prozesse und Geräte in Gebäuden miteinander vernetzt und zentral überwacht sowie gesteuert werden¹. 
+
+2. **Energieeffizienz und Kosteneinsparungen**: Die Bus-/Gebäudesystemtechnik kann dazu beitragen, den Energieverbrauch in Gebäuden zu reduzieren, indem sie die Beleuchtung, Heizung, Klimatisierung und Belüftung automatisch reguliert und an die Bedürfnisse der Nutzer und des Gebäudes anpasst¹. Die Reduzierung des Energieverbrauchs und die Optimierung der Wartung und Instandhaltung verringert zugleich die Kosten¹.
+
+3. **Sicherheit**: Die Integration von Sicherheitskomponenten kann die Sicherheit von Gebäuden erhöhen und Schäden durch Einbrüche oder Brände verhindern¹.
+
+4. **Flexibilität**: Durch die Möglichkeit, die Steuerung und Überwachung von Gebäuden zentral zu verwalten, kann die Bus-/Gebäudesystemtechnik eine hohe Flexibilität und Anpassungsfähigkeit bieten¹.
+
+5. **Vereinfachte Installation und Wartung**: Im Gegensatz zur klassischen Elektroinstallation, bei der Steuerfunktion und Energieverteilung fest verbunden sind, trennt das Bussystem die Steuerung der Geräte und die Stromversorgung². Dies führt zu Kostensenkungen in Bezug auf Material und Arbeitsaufwand⁵.
+
+6. **Datenaustausch**: Ein Bus (Binary Unit System) stellt die Verbindung zwischen verschiedenen Teilnehmern bzw. Komponenten her und ermöglicht somit den einheitlichen Austausch von Daten⁶.
+
+Source: Conversation with Bing, 21.9.2023
+
+(1) Grundprinzip von Bussystemen | Elektro - Baunetz Wissen. https://www.baunetzwissen.de/elektro/fachwissen/gebaeudesystemtechnik/grundprinzip-von-bussystemen-153070.
+
+(2) Bussystem Grundprinzip | Aufbau Bussystem | Funktion Bussystem. https://dein-elektriker-info.de/grundprinzip-bussystem/.
+
+(3) Industrielle Bussysteme – Funktionsweise und Anforderungen. https://industrie-wegweiser.de/bussysteme/.
+
+(4) Was ist Bus (Elektrotechnik)? Binary Unit System - schnell erklärt. https://heinen-elektronik.de/glossar/bus/.
+
+(5) Bussystem Haus - Die Vorteile und Aufgaben eines Bussystem. https://bing.com/search?q=Warum+werden+in+der+elektrotechnik+Bussysteme+verwedenet%3f.
+
+(6) Anwendung von Bussystemen und Protokollen. https://www.kunbus.de/anwendung-von-bussystemen-und-protokollen.
+
+## Nachteile von Bussystemen
+
+Bussysteme bieten viele Vorteile, aber sie haben auch einige Nachteile:
+
+1. **Nachrüstung**: Kabel-Bussysteme lassen sich nur schlecht nachrüsten und erfordern eine detaillierte Planung.
+2. **Reichweite und Störanfälligkeit**: Funk-basierte Systeme sind in ihrer Reichweite beschränkt und haben ein höheres Störrisiko.
+3. **Kosten der Steuereinheit und Erweiterungen**: Bei einem BUS-System kommen noch die Kosten der Steuereinheit und diverser Erweiterungen hinzu.
+4. **Komplexität**: Je komplexer das Gebäude und die Ansprüche, umso eher lohnt sich ein Bussystem. Bei weniger komplexen Anforderungen ist die konventionelle Methode immer noch preislich im Vorteil.
+
+## Die Netzwerktopologien
+
+Es gibt verschiedene Arten von Netzwerktopologien, die in Eingesetzt verwendet werden können:
+
+1. **Stern-Topologie (Star Topology)**: In dieser Topologie ist jeder Knoten (z.B. Computer, Drucker) über eine separate Verbindung direkt mit einem zentralen Netzwerkknoten verbunden. Der zentrale Netzwerkknoten könnte ein Netzwerk-Switch, Hub oder Router sein.
+
+2. **Ring-Topologie (Ring Topology)**: In einer Ring-Topologie sind alle Knoten in Form eines geschlossenen Schleifenrings miteinander verbunden. Jeder Knoten ist genau mit zwei anderen Knoten verbunden.
+
+3. **Bus-Topologie (Bus Topology)**: Bei einer Bus-Topologie sind alle Knoten entlang einer einzigen Kabelstrecke, dem sogenannten "Backbone", verbunden. 
+
+4. **Baum-Topologie (Tree Topology)**: Eine Baum-Topologie ist eine Erweiterung der Stern-Topologie. In der Baum-Topologie sind mehrere Stern-Topologien auf einem zentralen Bus aufgebaut.
+
+5. **Maschen-Topologie (Mesh Topology)**: In einer Maschen-Topologie ist jeder Knoten mit vielen (in einigen Fällen mit allen) anderen Knoten verbunden. 
+
+Jede Topologie hat ihre spezifischen Einsatzmöglichkeiten und Vorteile. Die Wahl der Bustopologie hängt von den spezifischen Anforderungen des Netzwerks ab.
+
+## OSI-Schichten Modell
+
+Das OSI-Modell (Open Systems Interconnection) ist ein Referenzmodell für Netzwerkprotokolle⁵. Es wurde von der International Organization for Standardization (ISO) entwickelt, um die standardisierte Kommunikation zwischen verschiedenen Computersystemen zu ermöglichen¹². Das Modell besteht aus sieben Schichten¹⁴:
+
+1. **Physical Layer (Bitübertragungsschicht)**: Diese Schicht ist für die physikalische Übertragung von Daten zuständig¹.
+2. **Data Link Layer (Sicherungsschicht)**: Diese Schicht stellt eine fehlerfreie Verbindung zwischen den Netzwerkknoten her und kontrolliert den Datenfluss¹.
+3. **Network Layer (Vermittlungsschicht)**: Diese Schicht ist für die Wegewahl (Routing) und die Vermittlung von Datenpaketen zuständig¹.
+4. **Transport Layer (Transportschicht)**: Diese Schicht stellt eine zuverlässige Ende-zu-Ende-Verbindung her und sorgt für die korrekte Reihenfolge der Datenpakete¹.
+5. **Session Layer (Sitzungsschicht)**: Diese Schicht ermöglicht den Aufbau, die Steuerung und den Abbau von Sitzungen zwischen Anwendungsprozessen¹.
+6. **Presentation Layer (Darstellungsschicht)**: Diese Schicht ist für die Darstellung der Daten verantwortlich und sorgt dafür, dass die Daten so umgewandelt werden, dass sie von der Anwendungsschicht verstanden werden können¹.
+7. **Application Layer (Anwendungsschicht)**: Diese Schicht stellt Funktionen für Anwendungen bereit und ermöglicht den Zugriff auf Netzwerkdienste¹.
+
+Jede Schicht erfüllt dabei eine bestimmte Aufgabe und kommuniziert mit den Schichten direkt über und unter ihr¹. Die Schichten können miteinander kommunizieren und Daten unter sich austauschen¹. Bei der Kommunikation zwischen zwei Systemen werden alle sieben Schichten mindestens zwei Mal angewendet: jeweils einmal beim Sender und einmal beim Empfänger¹. 
+
+Das OSI-Modell ist kein konkreter Netzwerkstandard, sondern beschreibt in abstrakter Form, welche Vorgänge geregelt werden müssen, damit die Kommunikation über ein Netzwerk funktioniert². Es bietet als konzeptioneller Rahmen eine Design-Grundlage für herstellerunabhängige Kommunikationsstandards².
+
+Source: Conversation with Bing, 21.9.2023
+
+(1) Grundlagen OSI-Modell einfach erklärt - simpleclub. https://simpleclub.com/lessons/fachinformatikerin-grundlagen-osi-modell.
+
+(2) OSI Modell • 7 Schichten Modell, Erklärung, Anwendung. https://studyflix.de/informatik/osi-modell-5524.
+
+(3) Was ist das OSI-Modell? Einfach erklärt! - IONOS. https://www.ionos.de/digitalguide/server/knowhow/das-osi-modell-referenz-fuer-standards-und-protokolle/.
+
+(4) Das Osi Schichtenmodell: Einfach und verständlich erklärt!. https://praxistipps.chip.de/das-osi-schichtenmodell-einfach-und-verstaendlich-erklaert_160368.
+
+(5) OSI-Modell - Wikiwand. https://www.wikiwand.com/de/OSI-Modell.
+
+## Feldbusse in der Elektrotechnik
+
+Feldbussysteme sind Datennetzwerke auf der industriellen Feldebene⁴. Sie sind ein Oberbegriff für verschiedene Bussysteme, die in der Automatisierung, Fertigungstechnik, Gebäudeautomation sowie im Bereich Automotive zum Einsatz kommen und Bestandteil nahezu jeder komplexen Maschine oder Anlage sind³. 
+
+In einem Feldbussystem sind alle Komponenten mit der Regel- oder Steuerebene verbunden³. Sie werden in Maschinen und Anlagen eingesetzt, um Sensoren und Aktoren (Motor) miteinander und mit einem oder mehreren zentralen Leitrechnern (Industrie-PC, SPS) zu verbinden⁵.
+
+Ein Feldbus ist ein Bussystem, das in einer Anlage Feldgeräte wie Messfühler (Sensoren) und Stellglieder (Aktoren) zur Kommunikation mit einem Automatisierungsgerät verbindet¹. Wenn mehrere Kommunikationsteilnehmer ihre Nachrichten über dieselbe Leitung senden, dann muss festgelegt sein, wer (Kennung) was (Messwert, Befehl) wann (Initiative) sagt¹. Hierfür gibt es normierte Protokolle¹.
+
+Die erste Generation der Feldbustechnik wurde in den 1980er Jahren entwickelt, um die bis dahin übliche Parallelverdrahtung binärer Signale sowie die analoge Signalübertragung durch digitale Übertragungstechnik zu ersetzen¹. Heute sind viele unterschiedliche Feldbussysteme mit unterschiedlichen Eigenschaften am Markt etabliert¹. Seit 1999 werden Feldbusse in der Norm IEC 61158 (Digital data communication for measurement and control – Fieldbus for use in industrial control systems) weltweit standardisiert¹.
+
+Source: Conversation with Bing, 21.9.2023
+
+(1) CAN-Bus Aufbau und Funktion. http://www.antal.de/htm/can.htm.
+
+(2) Feldbus | DriveCon-Lexikon. https://www.drivecon.de/de/lexikon/feldbus.
+
+(3) Feldbussysteme | NANOTEC. https://de.nanotec.com/knowledge-base-artikel/feldbussysteme/.
+
+(4) Feldbus – Wikipedia. https://de.wikipedia.org/wiki/Feldbus.
+
+(5) Was ist ein Feldbus? Grundlagen schnell erklärt | Glossar. https://heinen-elektronik.de/glossar/feldbus/.
+
+## Überblick AS-i Feldbus
+
+Das Actuator-Sensor-Interface, kurz AS-i, ist ein Feldbussystem, das heute in nahezu allen Industriezweigen anzutreffen ist³. Es wird seit Anfang der 1990er eingesetzt, um induktive, kapazitive und opto-elektronische Sensoren effektiver in automatisierte Produktionsprozesse einzubinden³.
+
+AS-Interface ist als offener Standard nach IEC 62026-2 genormt und vollständig im TIA Portal integriert⁴. Es ermöglicht eine Verkabelung mit frei wählbarer Topologie und ersetzt die aufwendige, herkömmliche Parallelverdrahtung¹. Die Verkabelung kann an Steuerungssysteme mit unterschiedlichen Feldbussystemen (etwa EtherNet/IP, Profibus-DP, Profinet, EtherCat etc.) angebunden werden¹.
+
+Ein zweiadriges Flachkabel überträgt Daten und Energie, wodurch die aufwendige Parallelverdrahtung entfällt¹. Die ausgereifte AS-Interface Technologie bietet eine hohe Zuverlässigkeit, Störsicherheit und vielfältige Diagnosemöglichkeiten¹. Der modulare Aufbau und die flexible Anschlusstechnik sorgen für eine einfache Eingliederung in die Anlage¹.
+
+AS-Interface ist ein effektives, leistungsstarkes Bussystem, das die Sensoren und Aktoren in der untersten Feldebene mit der übergeordneten Steuerung verbindet⁴. Es ist einfach zu implementieren, flexibel, preiswert und einfach erweiterbar¹. Sichere und nicht sichere Informationen können über das gleiche System verarbeitet werden¹. Es bietet zudem eine Reduzierung von Klemmstellen durch modularen und flexible Anschlusstechnik¹.
+
+Source: Conversation with Bing, 21.9.2023
+
+(1) ASi Bus/AS-Interface | Tools & Diagnosegeräte - Indu-Sol. https://www.indu-sol.com/produkte/as-interface/diagnose/.
+
+(2) AS-Interface: Der clevere Feldbusstandard - Siemens. https://www.siemens.com/de/de/produkte/automatisierung/industrielle-kommunikation/as-interface.html.
+
+(3) AS-I Bus System im Überblick - ifm - ifm electronic. https://www.ifm.com/de/de/shared/technologien/as-interface/systemuberblick.
+
+(4) AS-Interface Basiswissen – So funktioniert das Bussystem für die .... https://www.elektormagazine.de/articles/as-interface-basiswissen-so-funktioniert-das-bussystem-fur-die-industrieautomation.
+
+### Die AS-i Leitungen
+
+Die Leitung
+Als bevorzugte Leitung zum Aufbau von AS-Interface Netzwerken wurde folgendes gelbe Zweileiter-Flachband entwickelt.
+
+![Alt text](assets/ASi_Flachbandleitung.png)
+
+
+Es ist Basis der Elektromechanik von AS-Interface für die Schutzart IP67 und erlaubt den Einsatz der Durchdringungstechnik. Die Leiter haben typischerweise einen Querschnitt von 1,5mm² oder 2,5mm².
+
+Das Kabel gibt es in der Mantelfarbe "verkehrsgelb" für das AS-Interface Netzwerk sowie in der Mantelfarbe "schwarz" für die Hilfsenergie, die für manche Feldgeräte separat zugeführt werden kann.
+
+Für eine IP20 Umgebung, wie zum Beispiel in Schaltschränken, Verteilerkästen und ähnlich geschützten Umgebungen, kann auch das folgende Doppeladerkabel zum Einsatz kommen.
+
+![ASi Doppelader](ASi_Doppelader.png)
+
+Dessen Leiterquerschnitte belaufen sich auf 2 x 0,8mm². Diese Doppelader ist optimiert für die Kontaktierung mittels Schneidklemm-Technik.

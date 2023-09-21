@@ -49,7 +49,7 @@ Zusammenfassend lässt sich sagen, dass das Lastenheft die Anforderungen und Erw
 
 ## Inhalt eines Lastenheft nach DIN
 
-Ein Lastenheft nach DIN 69901-5 sollte folgende Punkte enthalten¹²³⁴:
+Ein Lastenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1] ¹²³⁴:
 
 1. **Einführung**: Eine kurze Beschreibung des Projekts und seiner Ziele.
 2. **Beschreibung des Istzustands**: Eine Darstellung der aktuellen Situation, aus der das Projekt hervorgeht.
@@ -65,9 +65,7 @@ Ein Lastenheft nach DIN 69901-5 sollte folgende Punkte enthalten¹²³⁴:
 
 Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers klar und präzise zu kommunizieren und bilden die Grundlage für die Projektarbeit. Sie ermöglichen es dem Auftragnehmer, einen detaillierten Plan für die Umsetzung des Projekts zu erstellen.
 
-Source: Conversation with Bing, 21.9.2023
-
-(1) Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
+[^1] Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
 
 (2) Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
 
@@ -89,8 +87,6 @@ Ein Pflichtenheft nach DIN 69901-5 sollte folgende Punkte enthalten¹²⁴:
 8. **Spezifikationen**: Detaillierte technische Spezifikationen des Projekts oder Produkts.
 
 Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers klar und präzise zu kommunizieren und bilden die Grundlage für die Projektarbeit. Sie ermöglichen es dem Auftragnehmer, einen detaillierten Plan für die Umsetzung des Projekts zu erstellen. Es ist wichtig zu beachten, dass das Pflichtenheft auf den Ausführungen basiert, die der Auftraggeber im Lastenheft niedergeschrieben hat¹.
-
-Source: Conversation with Bing, 21.9.2023
 
 (1) Was ist ein Pflichtenheft? Inhalte, Beispiel & Vorlage - IONOS. https://www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
 
@@ -125,8 +121,6 @@ Die Erstellung eines Lastenhefts ist ein wichtiger Schritt in der Projektplanung
 10. **Lastenheft überprüfen und freigeben**: Lassen Sie das Lastenheft von allen relevanten Stakeholdern überprüfen und freigeben¹.
 
 Es ist wichtig, dass das Lastenheft immer den aktuellen Zustand des Projektvorhabens widerspiegelt und das Gesamtvorhaben und die dort enthaltenen Voraussetzungen nicht in Frage stellt⁵. Bei der Erstellung des Lastenhefts sollte unbedingt auf eine klare und deutliche Formulierung aller Anforderungen und Ziele geachtet werden⁵.
-
-Source: Conversation with Bing, 21.9.2023
 
 (1) Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
 
@@ -163,8 +157,6 @@ Die Erstellung eines Pflichtenhefts ist ein wichtiger Schritt in der Projektplan
 10. **Pflichtenheft überprüfen und freigeben**: Lassen Sie das Pflichtenheft von allen relevanten Stakeholdern überprüfen und freigeben¹.
 
 Es ist wichtig zu beachten, dass das Pflichtenheft auf den Ausführungen basiert, die der Auftraggeber im Lastenheft niedergeschrieben hat¹.
-
-Source: Conversation with Bing, 21.9.2023
 
 (1) Was ist ein Pflichtenheft? Inhalte, Beispiel & Vorlage - IONOS. https://
 www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
