@@ -37,6 +37,19 @@ Lastenheft und Pflichtenheft sind wichtige Dokumente in der Projektplanung und -
 
 Zusammenfassend lässt sich sagen, dass Lasten- und Pflichtenhefte wesentliche Werkzeuge für eine erfolgreiche Projektarbeit sind.
 
+## Quiz
+
+Welche Gründe sprechen für das Verfassen eines Lasten- und Pflichtenheft?
+
+<!-- data-randomize -->
+    [(X)] Klare Kommunikation
+    [(X)] Vermeidung von Missverständnissen
+    [(x)] Effiziente Projektumsetzung
+    [(x)] Qualitätssicherung
+    [(x)] Risikomanagement
+    [( )] Abwälzung von Verantwortlichkeiten
+    [( )] Verbessern der Schreibkompetenz
+    
 ## Was ist der Unterschied zwischen einem Pflichten- und Lastenheft?
 
 Ein **Lastenheft** und ein **Pflichtenheft** sind beide wichtige Dokumente in der Projektplanung und -umsetzung, aber sie haben unterschiedliche Funktionen:
