@@ -17,7 +17,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 -->
 
-# Überblick Lasten- und Pflichtenheft
+# Lasten- und Pflichtenheft
 
 ![Lasten_Pflichtenheft](assets/image.png)
  
@@ -37,9 +37,9 @@ Lastenheft und Pflichtenheft sind wichtige Dokumente in der Projektplanung und -
 
 Zusammenfassend lässt sich sagen, dass Lasten- und Pflichtenhefte wesentliche Werkzeuge für eine erfolgreiche Projektarbeit sind.
 
-### Quiz
+### 1. Quiz
 
-Welche Gründe sprechen für das Verfassen eines Lasten- und Pflichtenheft?
+**Welche Gründe sprechen für das Verfassen eines Lasten- und Pflichtenheft?**
 
 <!-- data-randomize 
      data-solution-button="off" -->
@@ -61,9 +61,9 @@ Ein **Lastenheft** und ein **Pflichtenheft** sind beide wichtige Dokumente in de
 
 Zusammenfassend lässt sich sagen, dass das Lastenheft die Anforderungen und Erwartungen des Auftraggebers darstellt, während das Pflichtenheft den Plan des Auftragnehmers zur Erfüllung dieser Anforderungen darstellt.
 
-### Quiz
+### 2. Quiz
 
-Ordne den Beschreibungen den jeweils richtigen Begriff zu!
+**Ordne den Beschreibungen den jeweils richtigen Begriff zu!**
 
 <!-- data-solution-button="off" -->
 | Begriff | Beschreibung |
@@ -97,26 +97,6 @@ Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers
 
 [^4] Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
 
-### Quiz
-
-Ordnen Sie die folgenden Kapitel eines Lastenhefts chronologisch!
-
-<!-- data-randomize 
-     data-solution-button="off" -->
-| Kapitelnummer | Kapitelüberschrift |
-|---------------|--------------------|
-| 1. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | (Einführung) | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
-| 2. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | (Beschreibung des Ist-zustands) | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
-| 3. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | (Beschreibung des Soll-Konzepts) | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
-| 4. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | (Spezifikation des zu erbringenden Werks) | Vertragliche Konditionen ]] |
-| 5. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | (Die Anforderungen an das Produkt bei seiner späteren Verwendung) | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
-| 6. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | (Rahmenbedingungen für Produkt und Leistungserbringung) | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
-| 7. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | (Vertragliche Konditionen) ]] |
-| 8. | [[ Abnahmekriterien | (Anforderungen an den Auftraggeber) | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
-| 9. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | (Anforderungen an das Projektmanagement des Auftragnehmers) | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
-| 10. | [[ Abnahmekriterien | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | (Lieferumfang) | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
-| 11. | [[ (Abnahmekriterien) | Anforderungen an den Auftraggeber | Anforderungen an das Projektmanagement des Auftragnehmers | Beschreibung des Ist-zustands | Beschreibung des Soll-Konzepts | Die Anforderungen an das Produkt bei seiner späteren Verwendung | Einführung | Lieferumfang | Rahmenbedingungen für Produkt und Leistungserbringung | Spezifikation des zu erbringenden Werks | Vertragliche Konditionen ]] |
-
 ## Inhalte eines Pflichtenheft nach DIN
 
 Ein Pflichtenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1] [^2] [^4]:
@@ -140,29 +120,50 @@ Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers
 
 [^4] Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
 
-### Quiz
+### 3. Quiz
+
+**Ordne die folgenden Inhalte jeweils einem Lasten- oder Pflichtenheft zu!**
+
+<!--
+    data-randomize 
+    data-solution-button="off" 
+-->
+- [ [Lastenheft]    [Pflichtenheft] ]
+- [ [ ]             [x]             ]   Allgemeine Anforderungen
+- [ [ ]             [x]             ]   Geltungsbereich
+- [ [ ]             [x]             ]   Funktionalle Anforderung
+- [ [ ]             [x]             ]   Konstruktive Anforderungen
+- [ [ ]             [x]             ]   Betreibs- und Prüfbedingungen
+- [ [ ]             [x]             ]   Geltende Normen und Vorschriften
+- [ [ ]             [x]             ]   Produktlebensdauer
+- [ [ ]             [x]             ]   Spezifikationen
+- [ [ ]             [x]             ]   Abnahmekriterien
+- [ [x]             [ ]             ]   Anforderungen an den Auftraggeber
+- [ [x]             [ ]             ]   Anforderungen an das Projektmanagement des Auftragnehmers
+- [ [x]             [ ]             ]   Beschreibung des Ist-zustands
+- [ [x]             [ ]             ]   Beschreibung des Soll-Konzepts
+- [ [x]             [ ]             ]   Die Anforderungen an das Produkt bei seiner späteren Verwendung
+- [ [x]             [ ]             ]   Einführung
+- [ [x]             [ ]             ]   Lieferumfang
+- [ [x]             [ ]             ]   Rahmenbedingungen für Produkt und Leistungserbringung
+- [ [x]             [ ]             ]   Spezifikation des zu erbringenden Werks
+- [ [x]             [ ]             ]   Vertragliche Konditionen
+
+
+
 ## Schritte zum Erstellen eines Lastenhefts
 
 Die Erstellung eines Lastenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten[^1] [^3]:
 
 1. **Funktionsanalyse**: Bevor Sie mit dem Verfassen des Lastenhefts beginnen, müssen die funktionalen Anforderungen festgelegt werden. Dafür muss zunächst der Bedarf identifiziert werden und dieser dann in Funktionalitäten übersetzt werden[^1].
-
 2. **Anforderungen an die Lösung sammeln und erfassen**: Sammeln Sie alle Anforderungen, die das Projekt erfüllen muss[^3].
-
 3. **Stakeholder befragen**: Befragen Sie Nutzer, Betroffene und andere Stakeholder, um ihre Anforderungen und Erwartungen zu verstehen[^3].
-
 4. **Aus User Storys Anforderungen ableiten**: Wenn Sie agile Methoden verwenden, können Sie aus User Storys Anforderungen ableiten[^3].
-
 5. **Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen**: Überprüfen Sie bestehende Dokumente und Systeme und berechnen Sie relevante Kenngrößen[^3].
-
 6. **Anforderungen bewerten und Lösungsvorgaben festlegen**: Bewerten Sie die gesammelten Anforderungen und legen Sie Vorgaben für die Lösung fest[^3].
-
 7. **Prioritäten festlegen**: Legen Sie fest, welche Anforderungen am wichtigsten sind und welche weniger Priorität haben[^3].
-
 8. **Anforderungen im Lastenheft benennen und exakt beschreiben**: Benennen und beschreiben Sie jede Anforderung im Lastenheft so genau wie möglich[^3].
-
 9. **Rahmenbedingungen klären**: Klären Sie alle Rahmenbedingungen für das Projekt, wie z.B. Budget, Zeitplan, rechtliche Anforderungen usw[^3].
-
 10. **Lastenheft überprüfen und freigeben**: Lassen Sie das Lastenheft von allen relevanten Stakeholdern überprüfen und freigeben[^1].
 
 Es ist wichtig, dass das Lastenheft immer den aktuellen Zustand des Projektvorhabens widerspiegelt und das Gesamtvorhaben und die dort enthaltenen Voraussetzungen nicht in Frage stellt[^5]. Bei der Erstellung des Lastenhefts sollte unbedingt auf eine klare und deutliche Formulierung aller Anforderungen und Ziele geachtet werden[^5].
@@ -177,29 +178,40 @@ Es ist wichtig, dass das Lastenheft immer den aktuellen Zustand des Projektvorha
 
 [^5] Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
 
-### Quiz
+### 4. Quiz
+
+**Ordnen Sie die folgenden Schritte zum Erstellen eines eines Lastenhefts chronologisch!**
+
+<!-- 
+    data-randomize 
+    data-solution-button="off" 
+-->
+| Schrittnummer | Schritt |
+|---------------|--------------------|
+| 1. | [[ Anforderungen an die Lösung sammeln und erfassen | Anforderungen bewerten und Lösungsvorgaben festlegen | Anforderungen im Lastenheft benennen und exakt beschreiben | Aus User Storys Anforderungen ableiten | Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen | (Funktionsanalyse) | Lastenheft überprüfen und freigeben | Prioritäten festlegen | Rahmenbedingungen klären | Stakeholder befragen ]] |
+| 2. | [[  (Anforderungen an die Lösung sammeln und erfassen) | Anforderungen bewerten und Lösungsvorgaben festlegen | Anforderungen im Lastenheft benennen und exakt beschreiben | Aus User Storys Anforderungen ableiten | Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen | Funktionsanalyse | Lastenheft überprüfen und freigeben | Prioritäten festlegen | Rahmenbedingungen klären | Stakeholder befragen ]] |
+| 3. | [[  Anforderungen an die Lösung sammeln und erfassen | Anforderungen bewerten und Lösungsvorgaben festlegen | Anforderungen im Lastenheft benennen und exakt beschreiben | Aus User Storys Anforderungen ableiten | Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen | Funktionsanalyse | Lastenheft überprüfen und freigeben | Prioritäten festlegen | Rahmenbedingungen klären | (Stakeholder befragen) ]] |
+| 4. | [[  Anforderungen an die Lösung sammeln und erfassen | Anforderungen bewerten und Lösungsvorgaben festlegen | Anforderungen im Lastenheft benennen und exakt beschreiben | (Aus User Storys Anforderungen ableiten) | Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen | Funktionsanalyse | Lastenheft überprüfen und freigeben | Prioritäten festlegen | Rahmenbedingungen klären | Stakeholder befragen ]] |
+| 5. | [[  Anforderungen an die Lösung sammeln und erfassen | Anforderungen bewerten und Lösungsvorgaben festlegen | Anforderungen im Lastenheft benennen und exakt beschreiben | Aus User Storys Anforderungen ableiten | (Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen) | Funktionsanalyse | Lastenheft überprüfen und freigeben | Prioritäten festlegen | Rahmenbedingungen klären | Stakeholder befragen ]] |
+| 6. | [[  Anforderungen an die Lösung sammeln und erfassen | (Anforderungen bewerten und Lösungsvorgaben festlegen) | Anforderungen im Lastenheft benennen und exakt beschreiben | Aus User Storys Anforderungen ableiten | Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen | Funktionsanalyse | Lastenheft überprüfen und freigeben | Prioritäten festlegen | Rahmenbedingungen klären | Stakeholder befragen ]] |
+| 7. | [[  Anforderungen an die Lösung sammeln und erfassen | Anforderungen bewerten und Lösungsvorgaben festlegen | Anforderungen im Lastenheft benennen und exakt beschreiben | Aus User Storys Anforderungen ableiten | Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen | Funktionsanalyse | Lastenheft überprüfen und freigeben | (Prioritäten festlegen) | Rahmenbedingungen klären | Stakeholder befragen ]] |
+| 8. | [[  Anforderungen an die Lösung sammeln und erfassen | Anforderungen bewerten und Lösungsvorgaben festlegen | (Anforderungen im Lastenheft benennen und exakt beschreiben) | Aus User Storys Anforderungen ableiten | Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen | Funktionsanalyse | Lastenheft überprüfen und freigeben | Prioritäten festlegen | Rahmenbedingungen klären | Stakeholder befragen ]] |
+| 9. | [[  Anforderungen an die Lösung sammeln und erfassen | Anforderungen bewerten und Lösungsvorgaben festlegen | Anforderungen im Lastenheft benennen und exakt beschreiben | Aus User Storys Anforderungen ableiten | Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen | Funktionsanalyse | Lastenheft überprüfen und freigeben | Prioritäten festlegen | (Rahmenbedingungen klären) | Stakeholder befragen ]] |
+| 10. | [[  Anforderungen an die Lösung sammeln und erfassen | Anforderungen bewerten und Lösungsvorgaben festlegen | Anforderungen im Lastenheft benennen und exakt beschreiben | Aus User Storys Anforderungen ableiten | Dokumente auswerten, Systeme prüfen und Kenngrößen berechnen | Funktionsanalyse | (Lastenheft überprüfen und freigeben) | Prioritäten festlegen | Rahmenbedingungen klären | Stakeholder befragen ]] |
+
 ## Schritte zum Erstellen eines Pflichtenhefts
 
 Die Erstellung eines Pflichtenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten[^1] [^2] [^3] [^4] :
 
 1. **Dokumentation der Ausgangslage und Definition der Ziele**: Bevor Sie mit dem Verfassen des Pflichtenhefts beginnen, müssen Sie den aktuellen Zustand dokumentieren und die Ziele des Projekts definieren[^3] [^4] .
-
 2. **Beschreibung der Prozessabläufe**: Beschreiben Sie die Prozessabläufe und identifizieren Sie deren Stärken und Schwächen[^3] [^4] .
-
 3. **Erstellung einer Soll-Konzeption**: Erstellen Sie ein Soll-Konzept, das die Anforderungen des Auftraggebers beschreibt[^3] [^4] .
-
 4. **Technische Struktur**: Beginnen Sie mit der Beschreibung der technischen Struktur[^3] .
-
 5. **Tabellarische Übersicht**: Erstellen Sie eine tabellarische Übersicht über die wichtigsten Daten, Notizen und Anmerkungen[^3] .
-
 6. **Funktionalität und technische Anforderungen**: Beschreiben Sie detailliert die funktionalen und technischen Anforderungen des Projekts[^2] .
-
 7. **Realistische Zeit- und Ressourcenplanung**: Legen Sie realistische Zeitpläne und Budgets fest, die auf den im Pflichtenheft definierten Anforderungen basieren[^2] .
-
 8. **Mögliche Risiken identifizieren**: Identifizieren und bewerten Sie mögliche Risiken, die während der Projektlaufzeit auftreten können, und entwickeln Sie entsprechende Gegenmaßnahmen, um diese abzumildern[^2] .
-
 9. **Umsetzung von Test- und Qualitätsmanagementprozessen**: Etablieren Sie geeignete Testverfahren und einen Qualitätsmanagementprozess, um sicherzustellen, dass das Endprodukt den im Pflichtenheft festgelegten Anforderungen entspricht[^2] .
-
 10. **Pflichtenheft überprüfen und freigeben**: Lassen Sie das Pflichtenheft von allen relevanten Stakeholdern überprüfen und freigeben[^1] .
 
 Es ist wichtig zu beachten, dass das Pflichtenheft auf den Ausführungen basiert, die der Auftraggeber im Lastenheft niedergeschrieben hat[^1] .
@@ -213,7 +225,26 @@ www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
 
 [^4] Pflichtenheft: Erstellen, Aufgaben, Aufbau, Inhalte - induux Wiki. https://wiki.induux.de/Pflichtenheft.
 
-### Quiz
+### 5. Quiz
+
+**Ordnen Sie die folgenden Schritte zum Erstellen eines eines Pflichtenhefts chronologisch!**
+
+<!-- 
+    data-randomize 
+    data-solution-button="off" 
+-->
+| Schrittnummer | Schritt |
+|---------------|--------------------|
+| 1. | [[ Beschreibung der Prozessabläufe | (Dokumentation der Ausgangslage und Definition der Ziele) | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
+| 2. | [[ (Beschreibung der Prozessabläufe) | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
+| 3. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | (Erstellung einer Soll-Konzeption) | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
+| 4. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | (Technische Struktur) | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
+| 5. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | (Tabellarische Übersicht) | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
+| 6. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | (Funktionalität und technische Anforderungen) | Mögliche Risiken identifizieren | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
+| 7. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | Pflichtenheft überprüfen und freigeben | (Realistische Zeit- und Ressourcenplanung) | Tabellarische Übersicht | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
+| 8. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | (Mögliche Risiken identifizieren) | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
+| 9. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | (Umsetzung von Test- und Qualitätsmanagementprozessen) ]] |
+| 10. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | (Pflichtenheft überprüfen und freigeben) | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
 ## Beispiel für ein Lasten- und Pflichtenheft
 
 **Lastenheft für ein neues CRM-System**
@@ -233,7 +264,7 @@ www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
 
 Bitte beachten Sie, dass dies nur ein sehr einfaches Beispiel ist und ein tatsächliches Lasten- und Pflichtenheft viel detaillierter sein würde, abhängig von der Komplexität des Projekts. Es ist wichtig, dass beide Dokumente sorgfältig erstellt und überprüft werden, um sicherzustellen, dass sie alle Anforderungen und Erwartungen des Projekts abdecken.
 
-### Aufgabe Lastenheft -> Pflichtenheft
+### 1. Aufgabe
 
 Erstelle für die folgenden drei Lastenhefte jeweils schriftlich ein kurzes Pflichtenheft.
 
