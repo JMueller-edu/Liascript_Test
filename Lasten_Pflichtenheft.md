@@ -26,17 +26,12 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 Lastenheft und Pflichtenheft sind wichtige Dokumente in der Projektplanung und -umsetzung. Hier sind einige Gründe, warum sie benötigt werden:
 
 1. **Klare Kommunikation**: Sie helfen dabei, die Erwartungen und Anforderungen des Auftraggebers klar und präzise zu kommunizieren. Dies stellt sicher, dass alle Beteiligten ein gemeinsames Verständnis des Projekts haben.
-
 2. **Vermeidung von Missverständnissen**: Durch die detaillierte Beschreibung der Anforderungen und der geplanten Umsetzung im Lasten- und Pflichtenheft können Missverständnisse und Fehlinterpretationen vermieden werden.
-
 3. **Effiziente Projektumsetzung**: Ein gut ausgearbeitetes Lasten- und Pflichtenheft kann dazu beitragen, die Projektumsetzung effizienter zu gestalten. Es bietet eine klare Roadmap für die Projektarbeit und hilft dabei, den Arbeitsaufwand und die Ressourcen besser zu planen.
-
 4. **Qualitätssicherung**: Lasten- und Pflichtenhefte dienen auch als Referenzdokumente für die Qualitätssicherung. Sie ermöglichen es, die Qualität der gelieferten Arbeit zu überprüfen und sicherzustellen, dass sie den festgelegten Anforderungen entspricht.
-
 5. **Risikomanagement**: Sie helfen dabei, potenzielle Risiken zu identifizieren und geeignete Maßnahmen zur Risikominderung zu planen.
 
 Zusammenfassend lässt sich sagen, dass Lasten- und Pflichtenhefte wesentliche Werkzeuge für eine erfolgreiche Projektarbeit sind.
-
 ### 1. Quiz
 
 **Welche Gründe sprechen für das Verfassen eines Lasten- und Pflichtenheft?**
@@ -56,7 +51,6 @@ Zusammenfassend lässt sich sagen, dass Lasten- und Pflichtenhefte wesentliche W
 Ein **Lastenheft** und ein **Pflichtenheft** sind beide wichtige Dokumente in der Projektplanung und -umsetzung, aber sie haben unterschiedliche Funktionen:
 
 1. **Lastenheft**: Dieses Dokument wird vom Auftraggeber erstellt und enthält eine detaillierte Beschreibung der Anforderungen und Erwartungen an das Projekt. Es dient als Grundlage für die Projektplanung und definiert die Ziele und den Umfang des Projekts. Es kann auch Informationen über den Hintergrund des Projekts, die Zielgruppe, die zu erfüllenden Aufgaben und die gewünschten Ergebnisse enthalten.
-
 2. **Pflichtenheft**: Dieses Dokument wird vom Auftragnehmer erstellt und basiert auf den Anforderungen und Erwartungen, die im Lastenheft festgelegt wurden. Es enthält einen detaillierten Plan für die Umsetzung des Projekts, einschließlich der spezifischen Aufgaben, die durchgeführt werden müssen, der zu verwendenden Technologien und Methoden, des Zeitplans und der Kosten. Es dient als Leitfaden für die Projektarbeit und hilft dabei, die Arbeit zu organisieren und den Fortschritt zu überwachen.
 
 Zusammenfassend lässt sich sagen, dass das Lastenheft die Anforderungen und Erwartungen des Auftraggebers darstellt, während das Pflichtenheft den Plan des Auftragnehmers zur Erfüllung dieser Anforderungen darstellt.
