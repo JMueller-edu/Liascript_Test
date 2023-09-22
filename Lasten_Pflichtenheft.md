@@ -19,7 +19,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 # Lasten- und Pflichtenheft
 
-![Lasten_Pflichtenheft](assets/image.png)
+![Alt text](assets/Titelbild_Lasten_Pflichten.png)
  
 ##  Warum wird ein Lasten- und Pflichtenheft benötigt?
 
