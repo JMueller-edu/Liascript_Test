@@ -73,7 +73,7 @@ Zusammenfassend lässt sich sagen, dass das Lastenheft die Anforderungen und Erw
 
 ## Inhalt eines Lastenheft nach DIN
 
-Ein Lastenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1] [^2] [^3] [^4]:
+Ein Lastenheft nach DIN 69901-5 sollte folgende Punkte enthalten:[^1][^2][^3][^4]
 
 1. **Einführung**: Eine kurze Beschreibung des Projekts und seiner Ziele.
 2. **Beschreibung des Ist-zustands**: Eine Darstellung der aktuellen Situation, aus der das Projekt hervorgeht.
@@ -89,17 +89,14 @@ Ein Lastenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1] [^2] [^3] [
 
 Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers klar und präzise zu kommunizieren und bilden die Grundlage für die Projektarbeit. Sie ermöglichen es dem Auftragnehmer, einen detaillierten Plan für die Umsetzung des Projekts zu erstellen.
 
-[^1] Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
-
-[^2] Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
-
-[^3] Lastenheft: Alle wichtigen Informationen nachlesen | Lexware. https://www.lexware.de/wissen/unternehmerlexikon/lastenheft/.
-
-[^4] Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
+[^1]: Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
+[^2]: Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
+[^3]: Lastenheft - Alle wichtigen Informationen nachlesen Lexware. https://www.lexware.de/wissen/unternehmerlexikon/lastenheft/.
+[^4]: Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
 
 ## Inhalte eines Pflichtenheft nach DIN
 
-Ein Pflichtenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1] [^2] [^4]:
+Ein Pflichtenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1][^2][^4]:
 
 1. **Geltungsbereich**: Beschreibung des Anwendungsbereichs des Projekts oder Produkts.
 2. **Allgemeine Anforderungen**: Übersicht über die allgemeinen Anforderungen, die das Projekt oder Produkt erfüllen muss.
@@ -112,13 +109,10 @@ Ein Pflichtenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1] [^2] [^4
 
 Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers klar und präzise zu kommunizieren und bilden die Grundlage für die Projektarbeit. Sie ermöglichen es dem Auftragnehmer, einen detaillierten Plan für die Umsetzung des Projekts zu erstellen. Es ist wichtig zu beachten, dass das Pflichtenheft auf den Ausführungen basiert, die der Auftraggeber im Lastenheft niedergeschrieben hat[^1].
 
-[^1] Was ist ein Pflichtenheft? Inhalte, Beispiel & Vorlage - IONOS. https://www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
-
-[^2] Pflichtenheft – Wikipedia. https://de.wikipedia.org/wiki/Pflichtenheft.
-
-[^3] Pflichtenheft Erstellung – Gliederung, Normen und Standards. https://www.christianziemann.de/produktmanagement/pflichtenheft/.
-
-[^4] Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
+[^1]: Was ist ein Pflichtenheft? Inhalte, Beispiel & Vorlage - IONOS. https://www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
+[^2]: Pflichtenheft – Wikipedia. https://de.wikipedia.org/wiki/Pflichtenheft.
+[^3]: Pflichtenheft Erstellung – Gliederung, Normen und Standards. https://www.christianziemann.de/produktmanagement/pflichtenheft/.
+[^4]: Lastenheft – Wikipedia. https://de.wikipedia.org/wiki/Lastenheft.
 
 ### 3. Quiz
 
@@ -153,7 +147,7 @@ Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers
 
 ## Schritte zum Erstellen eines Lastenhefts
 
-Die Erstellung eines Lastenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten[^1] [^3]:
+Die Erstellung eines Lastenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten:[^1][^3]
 
 1. **Funktionsanalyse**: Bevor Sie mit dem Verfassen des Lastenhefts beginnen, müssen die funktionalen Anforderungen festgelegt werden. Dafür muss zunächst der Bedarf identifiziert werden und dieser dann in Funktionalitäten übersetzt werden[^1].
 2. **Anforderungen an die Lösung sammeln und erfassen**: Sammeln Sie alle Anforderungen, die das Projekt erfüllen muss[^3].
@@ -168,15 +162,11 @@ Die Erstellung eines Lastenhefts ist ein wichtiger Schritt in der Projektplanung
 
 Es ist wichtig, dass das Lastenheft immer den aktuellen Zustand des Projektvorhabens widerspiegelt und das Gesamtvorhaben und die dort enthaltenen Voraussetzungen nicht in Frage stellt[^5]. Bei der Erstellung des Lastenhefts sollte unbedingt auf eine klare und deutliche Formulierung aller Anforderungen und Ziele geachtet werden[^5].
 
-[^1] Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
-
-[^2] Lastenheft erstellen Wie wird ein Lastenheft erstellt? - business-wissen.de. https://bing.com/search?q=Erstellung+eines+Lastenhefts.
-
-[^3] Lastenheft - Beispiel, Inhalt, Aufbau, Definition | VARIO Lexikon. https://lexikon.vario-software.de/lastenheft/.
-
-[^4] Lastenheft: Aufbau, Erstellung, Definition | CONSULTING.de. https://www.consulting.de/artikel/lastenheft-aufbau-erstellung-definition/.
-
-[^5] Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
+[^1]: Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
+[^2]: Lastenheft erstellen Wie wird ein Lastenheft erstellt? - business-wissen.de. https://bing.com/search?q=Erstellung+eines+Lastenhefts.
+[^3]: Lastenheft - Beispiel, Inhalt, Aufbau, Definition VARIO Lexikon. https://lexikon.vario-software.de/lastenheft/.
+[^4]: Lastenheft: Aufbau, Erstellung, Definition CONSULTING.de. https://www.consulting.de/artikel/lastenheft-aufbau-erstellung-definition/.
+[^5]: Lastenheft - Definition, Inhalte, Gliederung - projektmagazin. https://www.projektmagazin.de/glossarterm/lastenheft.
 
 ### 4. Quiz
 
@@ -201,7 +191,7 @@ Es ist wichtig, dass das Lastenheft immer den aktuellen Zustand des Projektvorha
 
 ## Schritte zum Erstellen eines Pflichtenhefts
 
-Die Erstellung eines Pflichtenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten[^1] [^2] [^3] [^4] :
+Die Erstellung eines Pflichtenhefts ist ein wichtiger Schritt in der Projektplanung und folgt in der Regel diesen Schritten:[^1][^2][^3][^4]
 
 1. **Dokumentation der Ausgangslage und Definition der Ziele**: Bevor Sie mit dem Verfassen des Pflichtenhefts beginnen, müssen Sie den aktuellen Zustand dokumentieren und die Ziele des Projekts definieren[^3] [^4] .
 2. **Beschreibung der Prozessabläufe**: Beschreiben Sie die Prozessabläufe und identifizieren Sie deren Stärken und Schwächen[^3] [^4] .
@@ -216,14 +206,10 @@ Die Erstellung eines Pflichtenhefts ist ein wichtiger Schritt in der Projektplan
 
 Es ist wichtig zu beachten, dass das Pflichtenheft auf den Ausführungen basiert, die der Auftraggeber im Lastenheft niedergeschrieben hat[^1] .
 
-[^1] Was ist ein Pflichtenheft? Inhalte, Beispiel & Vorlage - IONOS. https://
-www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
-
-[^2] Pflichtenheft: Best Practices und rechtliche Aspekte. https://kanzlei-herfurtner.de/pflichtenheft/.
-
-[^3] Was ist ein Pflichtenheft? ️ Logistik-Lexikon. https://www.prologistik.com/logistik-lexikon/pflichtenheft.
-
-[^4] Pflichtenheft: Erstellen, Aufgaben, Aufbau, Inhalte - induux Wiki. https://wiki.induux.de/Pflichtenheft.
+[^1]: Was ist ein Pflichtenheft? Inhalte, Beispiel & Vorlage - IONOS. https://www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/.
+[^2]: Pflichtenheft: Best Practices und rechtliche Aspekte. https://kanzlei-herfurtner.de/pflichtenheft/.
+[^3]: Was ist ein Pflichtenheft? ️ Logistik-Lexikon. https://www.prologistik.com/logistik-lexikon/pflichtenheft.
+[^4]: Pflichtenheft: Erstellen, Aufgaben, Aufbau, Inhalte - induux Wiki. https://wiki.induux.de/Pflichtenheft.
 
 ### 5. Quiz
 
