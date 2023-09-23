@@ -64,7 +64,11 @@ Bussysteme haben einige Nachteile, die berücksichtigt werden sollten:
 Es ist wichtig, diese Faktoren zu berücksichtigen, wenn man über die Implementierung eines Bussystems nachdenkt.
 ### 1. Quiz 
 
-**Ordne die folgenden Begriffe jeweils als Vor- oder Nachteil eines Bussystems zu!**
+**1. Was wird unter dem Begriff Bussystem in der Elektrotechnik verstanden?**
+
+[[___ ___ ___ ___]]
+
+**2. Ordne die folgenden Begriffe jeweils als Vor- oder Nachteil eines Bussystems zu!**
 
 <!--
     data-randomize 
@@ -109,8 +113,16 @@ Jede Topologie hat ihre spezifischen Einsatzmöglichkeiten und Vorteile. Die Wah
 
 ### 2. Quiz
 
-**Weisen Sie den jeweiligen Beschreibungen die passende Neztwektopologie zu!**
+**1. Wie unterscheiden sich die einzelenen Netzwerktopologien untereinander?**
 
+[[___ ___ ___ ___]]
+
+**2. Weisen Sie den jeweiligen Beschreibungen die passende Neztwektopologie zu!**
+
+<!--
+    data-randomize 
+    data-solution-button="off" 
+-->
 | Topologie | Beschreibung |
 |-----------|--------------|
 | [[Stern | Ring | (Bus) | Baum | Masche]] | In dieser Topologie sind alle Knoten entlang einer einzigen Kabelstrecke, dem sogenannten "Backbone", verbunden. |
@@ -144,7 +156,11 @@ Das OSI-Modell ist kein konkreter Netzwerkstandard, sondern beschreibt in abstra
 
 ### 3. Quiz
 
-**Ordnen Sie die OSI-Schichten chronologisch!**
+**1. Welchem Zweck dient das OSI-Schichtenmodell?**
+
+[[___ ___ ___ ___]]
+
+**2. Ordnen Sie die OSI-Schichten chronologisch!**
 
 <!--
     data-randomize 
@@ -192,7 +208,6 @@ AS-Interface ist ein effektives, leistungsstarkes Bussystem, das die Sensoren un
 
 Wie alle Kommunikations-Systeme lässt sich auch AS-Interface in das ISO/OSI-Referenzmodell mit seinen 7 Ebenen einordnen.
 
-Tabelle Übersicht ISO/OSI-Layer
 ![ASi Einordnung OSI](assets/ASi_OSI.png "*Abb.: Einordnung von ASi in das OSI-Schichtenmodell*")
 
 Wie bei anderen Feldbussen auch, sind bei AS-Interface aber nur die Ebenen 1, 2 und 7 realisiert. Die anderen Ebenen entfallen wegen der einfachen Struktur des Netzes, weil die Teilnehmer ständig verbunden sind und weil die Übersetzung der Datenformate ggf. von der Ebene 7 mit übernommen wird.
@@ -217,7 +232,6 @@ AS-Interface Repeater und andere Komponenten zur Netzverlängerung gehören eben
 #### Die AS-Interface Leitung[^21]
 Für die AS-Interface Leitung wurde ein Leitungsmodell mit folgenden Grenzdaten spezifiziert.
 
-AS-Interface Leitungsmodell
 ![AS-Interface Leitungsmodell](assets/ASi_Leitungsmodell.png "*AS-Interface Leitungsmodell*")
 
 **Grenzdaten:**
@@ -231,9 +245,7 @@ Zusätzlich wurde der Wellenwiderstand $|Z|$ auf den Bereich von $70...140 Ω$ u
 
 Besonders geeignet für den Aufbau von AS-Interface Netzwerken ist natürlich das gelbe Zweileiter-Flachkabel. Es ist Basis der Elektromechanik von AS-Interface für die Schutzart IP67 und erlaubt den Einsatz der effizienten Durchdringungstechnik, auf die wir später noch näher eingehen werden. Die Leiter haben typischerweise einen Querschnitt von 1,5mm² oder 2,5mm².
 
-
 ![Abbildung IP67 AS-Interface Kabel](assets/Abbildung_IP67_ASi_Kabel.jpg "*Abbildung IP67 AS-Interface Kabel*")
-
 
 Diese Daten werden aber auch von zahlreichen anderen standardisierten Leitungen erfüllt. Ein AS-Interface Netzwerk kann also mit sehr unterschiedlichen Leitungen aufgebaut werden, ein Beispiel ist die Starkstrom-Leitung H05VV-F2x1,5.
 
@@ -247,7 +259,6 @@ Auch mehradrige Kabel oder Stromschienen sind bereits erfolgreich für den Aufba
 - Übertragungseigenschaften im Frequenzbereich, der für die Kommunikation verwendet wird
 
 Der Gleichstromwiderstand ist ohne Bedeutung, solange der Gesamtstrom durch das AS-Interface Netzwerk kleiner ist als etwa 1A.
-
 
 ![Abbildung Leitungsmodell](assets/ASi_Leitungsmodell_einfach.png "*Abbildung Leitungsmodell*")
 
@@ -303,7 +314,11 @@ Für das Herstellen von Abzweigen, Stichleitungen, Anschlüssen usw. gibt es ebe
 
 ##### 4. Quiz
 
-**Welche Leitungen werden bei der Installation eines AS-Interface Netzwerkes verwendent?**
+**1. Welche Eigenschaften hat das ASi-Kabel und was sollte in der Praxis beachtet werden?**
+
+[[___ ___ ___ ___]]
+
+**2. Welche Leitungen werden bei der Installation eines AS-Interface Netzwerkes verwendent?**
 
 <!-- data-randomize 
      data-solution-button="off" -->
