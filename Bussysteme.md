@@ -41,12 +41,12 @@ Moderne Bussysteme zeichnen sich dadurch aus, dass nicht jeder Sensor eine eigen
 
 Bussysteme werden in der Elektrotechnik aus verschiedenen Gründen verwendet:
 
-1. **Automatisierung und Kontrolle**: Mithilfe von Bussystemen können verschiedene Prozesse und Geräte in Gebäuden miteinander vernetzt und zentral überwacht sowie gesteuert werden[^6]. 
-2. **Energieeffizienz und Kosteneinsparungen**: Die Bus-/Gebäudesystemtechnik kann dazu beitragen, den Energieverbrauch in Gebäuden zu reduzieren, indem sie die Beleuchtung, Heizung, Klimatisierung und Belüftung automatisch reguliert und an die Bedürfnisse der Nutzer und des Gebäudes anpasst[^1]. Die Reduzierung des Energieverbrauchs und die Optimierung der Wartung und Instandhaltung verringert zugleich die Kosten[^1].
-3. **Sicherheit**: Die Integration von Sicherheitskomponenten kann die Sicherheit von Gebäuden erhöhen und Schäden durch Einbrüche oder Brände verhindern[^1].
-4. **Flexibilität**: Durch die Möglichkeit, die Steuerung und Überwachung von Gebäuden zentral zu verwalten, kann die Bus-/Gebäudesystemtechnik eine hohe Flexibilität und Anpassungsfähigkeit bieten[^6].
-5. **Vereinfachte Installation und Wartung**: Im Gegensatz zur klassischen Elektroinstallation, bei der Steuerfunktion und Energieverteilung fest verbunden sind, trennt das Bussystem die Steuerung der Geräte und die Stromversorgung[^2]. Dies führt zu Kostensenkungen in Bezug auf Material und Arbeitsaufwand[^5].
-6. **Datenaustausch**: Ein Bus (Binary Unit System) stellt die Verbindung zwischen verschiedenen Teilnehmern bzw. Komponenten her und ermöglicht somit den einheitlichen Austausch von Daten[^7].
+- **Automatisierung und Kontrolle**: Mithilfe von Bussystemen können verschiedene Prozesse und Geräte in Gebäuden miteinander vernetzt und zentral überwacht sowie gesteuert werden[^6]. 
+- **Energieeffizienz und Kosteneinsparungen**: Die Bus-/Gebäudesystemtechnik kann dazu beitragen, den Energieverbrauch in Gebäuden zu reduzieren, indem sie die Beleuchtung, Heizung, Klimatisierung und Belüftung automatisch reguliert und an die Bedürfnisse der Nutzer und des Gebäudes anpasst[^1]. Die Reduzierung des Energieverbrauchs und die Optimierung der Wartung und Instandhaltung verringert zugleich die Kosten[^1].
+- **Sicherheit**: Die Integration von Sicherheitskomponenten kann die Sicherheit von Gebäuden erhöhen und Schäden durch Einbrüche oder Brände verhindern[^1].
+- **Flexibilität**: Durch die Möglichkeit, die Steuerung und Überwachung von Gebäuden zentral zu verwalten, kann die Bus-/Gebäudesystemtechnik eine hohe Flexibilität und Anpassungsfähigkeit bieten[^6].
+- **Vereinfachte Installation und Wartung**: Im Gegensatz zur klassischen Elektroinstallation, bei der Steuerfunktion und Energieverteilung fest verbunden sind, trennt das Bussystem die Steuerung der Geräte und die Stromversorgung[^2]. Dies führt zu Kostensenkungen in Bezug auf Material und Arbeitsaufwand[^5].
+- **Datenaustausch**: Ein Bus (Binary Unit System) stellt die Verbindung zwischen verschiedenen Teilnehmern bzw. Komponenten her und ermöglicht somit den einheitlichen Austausch von Daten[^7].
 
 [^6]: Grundprinzip von Bussystemen - Elektro - Baunetz Wissen. https://www.baunetzwissen.de/elektro/fachwissen/gebaeudesystemtechnik/grundprinzip-von-bussystemen-153070.
 [^7]: Anwendung von Bussystemen und Protokollen. https://www.kunbus.de/anwendung-von-bussystemen-und-protokollen.
@@ -55,11 +55,11 @@ Bussysteme werden in der Elektrotechnik aus verschiedenen Gründen verwendet:
 
 Bussysteme haben einige Nachteile, die berücksichtigt werden sollten:
 
-1. **Komplexität**: Bussysteme können komplex sein und erfordern spezielle Kenntnisse und Fähigkeiten für Installation und Wartung.
-2. **Kosten**: Die Anschaffungs- und Installationskosten können höher sein als bei herkömmlichen Verkabelungssystemen.
-3. **Leistung**: Bei hohem Datenverkehr können Bussysteme langsamer werden, da alle Daten über einen einzigen Bus gesendet werden.
-4. **Fehleranfälligkeit**: Wenn ein Problem auf dem Bus auftritt, kann dies Auswirkungen auf das gesamte Netzwerk haben.
-5. **Skalierbarkeit**: Bussysteme können Schwierigkeiten haben, mit dem Wachstum des Netzwerks Schritt zu halten, insbesondere wenn die Anzahl der Geräte zunimmt.
+- **Komplexität**: Bussysteme können komplex sein und erfordern spezielle Kenntnisse und Fähigkeiten für Installation und Wartung.
+- **Kosten**: Die Anschaffungs- und Installationskosten können höher sein als bei herkömmlichen Verkabelungssystemen.
+- **Leistung**: Bei hohem Datenverkehr können Bussysteme langsamer werden, da alle Daten über einen einzigen Bus gesendet werden.
+- **Fehleranfälligkeit**: Wenn ein Problem auf dem Bus auftritt, kann dies Auswirkungen auf das gesamte Netzwerk haben.
+- **Skalierbarkeit**: Bussysteme können Schwierigkeiten haben, mit dem Wachstum des Netzwerks Schritt zu halten, insbesondere wenn die Anzahl der Geräte zunimmt.
 
 Es ist wichtig, diese Faktoren zu berücksichtigen, wenn man über die Implementierung eines Bussystems nachdenkt.
 ### 1. Quiz 
@@ -143,13 +143,29 @@ Das OSI-Modell ist kein konkreter Netzwerkstandard, sondern beschreibt in abstra
 [^11]: Grundlagen OSI-Modell einfach erklärt - simpleclub. https://simpleclub.com/lessons/fachinformatikerin-grundlagen-osi-modell.
 
 ### 3. Quiz
+
+**Ordnen Sie die OSI-Schichten chronologisch!**
+
+<!--
+    data-randomize 
+    data-solution-button="off" 
+-->
+| Schichtnummer | Schichtname |
+|---------------|-------------|
+| 7 | [[(Anwendungschicht) | Bitübertragungsschicht | Darstellungsschicht | Sicherungsschicht | Sitzungsschicht | Transportschicht | Vermittlungsschicht]] |
+| 6 | [[Anwendungschicht | Bitübertragungsschicht | (Darstellungsschicht) | Sicherungsschicht | Sitzungsschicht | Transportschicht | Vermittlungsschicht]] |
+| 5 | [[Anwendungschicht | Bitübertragungsschicht | Darstellungsschicht | Sicherungsschicht | (Sitzungsschicht) | Transportschicht | Vermittlungsschicht]] |
+| 4 | [[Anwendungschicht | Bitübertragungsschicht | Darstellungsschicht | Sicherungsschicht | Sitzungsschicht | (Transportschicht) | Vermittlungsschicht]] |
+| 3 | [[Anwendungschicht | Bitübertragungsschicht | Darstellungsschicht | Sicherungsschicht | Sitzungsschicht | Transportschicht | (Vermittlungsschicht)]] |
+| 2 | [[Anwendungschicht | Bitübertragungsschicht | Darstellungsschicht | (Sicherungsschicht) | Sitzungsschicht | Transportschicht | Vermittlungsschicht]] |
+| 1 | [[Anwendungschicht | (Bitübertragungsschicht) | Darstellungsschicht | Sicherungsschicht | Sitzungsschicht | Transportschicht | Vermittlungsschicht]] |
 ## Feldbusse
 
 Feldbussysteme sind Datennetzwerke auf der industriellen Feldebene[^12]. Sie sind ein Oberbegriff für verschiedene Bussysteme, die in der Automatisierung, Fertigungstechnik, Gebäudeautomation sowie im Bereich Automotive zum Einsatz kommen und Bestandteil nahezu jeder komplexen Maschine oder Anlage sind[^13]. 
 
 In einem Feldbussystem sind alle Komponenten mit der Regel- oder Steuerebene verbunden[^13]. Sie werden in Maschinen und Anlagen eingesetzt, um Sensoren und Aktoren (Motor) miteinander und mit einem oder mehreren zentralen Leitrechnern (Industrie-PC, SPS) zu verbinden[^14].
 
-Ein Feldbus ist ein Bussystem, das in einer Anlage Feldgeräte wie Messfühler (Sensoren) und Stellglieder (Aktoren) zur Kommunikation mit einem Automatisierungsgerät verbindet[^1]. Wenn mehrere Kommunikationsteilnehmer ihre Nachrichten über dieselbe Leitung senden, dann muss festgelegt sein, wer (Kennung) was (Messwert, Befehl) wann (Initiative) sagt[^1]. Hierfür gibt es normierte Protokolle[^15].
+Ein Feldbus ist ein Bussystem, das in einer Anlage Feldgeräte wie Messfühler (Sensoren) und Stellglieder (Aktoren) zur Kommunikation mit einem Automatisierungsgerät verbindet. Wenn mehrere Kommunikationsteilnehmer ihre Nachrichten über dieselbe Leitung senden, dann muss festgelegt sein, wer (Kennung) was (Messwert, Befehl) wann (Initiative) sagt. Hierfür gibt es normierte Protokolle[^15].
 
 Die erste Generation der Feldbustechnik wurde in den 1980er Jahren entwickelt, um die bis dahin übliche Parallelverdrahtung binärer Signale sowie die analoge Signalübertragung durch digitale Übertragungstechnik zu ersetzen. Heute sind viele unterschiedliche Feldbussysteme mit unterschiedlichen Eigenschaften am Markt etabliert. Seit 1999 werden Feldbusse in der Norm IEC 61158 (Digital data communication for measurement and control – Fieldbus for use in industrial control systems) weltweit standardisiert[^15].
 
@@ -255,7 +271,8 @@ Im Bild dargestellt ist das gelbe AS-Interface Flachkabel für die Installation 
 
 Die verfügbaren Mantelwerkstoffe decken mit ihren mechanischen und chemischen Eigenschaften die Beständigkeitsanforderungen, wie sie in der industriellen Automatisierungstechnik vorkommen, weitestgehend ab.
 
-verfügbare Mantelwerkstoffe:
+Verfügbare Mantelwerkstoffe:
+
 - EPR Gummimischung EM3 nach DIN VDE 0207 Teil 21
 - TPE YM5 nach DIN VDE 0207 Teil 5
 - PUR nach CENELEC HD 22, T 10
@@ -283,3 +300,18 @@ Für das Herstellen von Abzweigen, Stichleitungen usw., für das Befestigen des 
 **Schneidklemm-Technik**
 
 Für das Herstellen von Abzweigen, Stichleitungen, Anschlüssen usw. gibt es ebenfalls zahlreiches Zubehör. Hierfür sei auf die Produktdatenbank von AS-International verwiesen: http://www.as-interface.net/… (Stichwort: Zubehör und Anderes/Verbindungsmodule/Montageplatten).
+
+##### 4. Quiz
+
+**Welche Leitungen werden bei der Installation eines AS-Interface Netzwerkes verwendent?**
+
+<!-- data-randomize 
+     data-solution-button="off" -->
+    [[x]] Flachkabel für IP67 Umgebung
+    [[x]] Doppelader für IP20 Umgebung
+    [[x]] Doppelader mit 2 x 0,8mm²
+    [[x]] Flachkabel mit 2 x 1,5mm²
+    [[ ]] Flachkabel für IP20 Umgebung
+    [[ ]] Doppelader für IP67 Umgebung
+    [[ ]] Doppelader mit 2 x 1,5mm²
+    [[ ]] Flachkabel mit 2 x 0,8mm²
