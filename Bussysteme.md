@@ -48,33 +48,77 @@ Bussysteme werden in der Elektrotechnik aus verschiedenen Gründen verwendet:
 5. **Vereinfachte Installation und Wartung**: Im Gegensatz zur klassischen Elektroinstallation, bei der Steuerfunktion und Energieverteilung fest verbunden sind, trennt das Bussystem die Steuerung der Geräte und die Stromversorgung[^2]. Dies führt zu Kostensenkungen in Bezug auf Material und Arbeitsaufwand[^5].
 6. **Datenaustausch**: Ein Bus (Binary Unit System) stellt die Verbindung zwischen verschiedenen Teilnehmern bzw. Komponenten her und ermöglicht somit den einheitlichen Austausch von Daten[^7].
 
-[^6]: Grundprinzip von Bussystemen | Elektro - Baunetz Wissen. https://www.baunetzwissen.de/elektro/fachwissen/gebaeudesystemtechnik/grundprinzip-von-bussystemen-153070.
+[^6]: Grundprinzip von Bussystemen - Elektro - Baunetz Wissen. https://www.baunetzwissen.de/elektro/fachwissen/gebaeudesystemtechnik/grundprinzip-von-bussystemen-153070.
 [^7]: Anwendung von Bussystemen und Protokollen. https://www.kunbus.de/anwendung-von-bussystemen-und-protokollen.
 
 ### Nachteile
 
-Bussysteme bieten viele Vorteile, aber sie haben auch einige Nachteile:
+Bussysteme haben einige Nachteile, die berücksichtigt werden sollten:
 
-1. **Nachrüstung**: Kabel-Bussysteme lassen sich nur schlecht nachrüsten und erfordern eine detaillierte Planung.
-2. **Reichweite und Störanfälligkeit**: Funkbasierte Systeme sind in ihrer Reichweite beschränkt und haben ein höheres Störrisiko.
-3. **Kosten der Steuereinheit und Erweiterungen**: Bei einem BUS-System kommen noch die Kosten der Steuereinheit und diverser Erweiterungen hinzu.
-4. **Komplexität**: Je komplexer das Gebäude und die Ansprüche, umso eher lohnt sich ein Bussystem. Bei weniger komplexen Anforderungen ist die konventionelle Methode immer noch preislich im Vorteil.
+1. **Komplexität**: Bussysteme können komplex sein und erfordern spezielle Kenntnisse und Fähigkeiten für Installation und Wartung.
+2. **Kosten**: Die Anschaffungs- und Installationskosten können höher sein als bei herkömmlichen Verkabelungssystemen.
+3. **Leistung**: Bei hohem Datenverkehr können Bussysteme langsamer werden, da alle Daten über einen einzigen Bus gesendet werden.
+4. **Fehleranfälligkeit**: Wenn ein Problem auf dem Bus auftritt, kann dies Auswirkungen auf das gesamte Netzwerk haben.
+5. **Skalierbarkeit**: Bussysteme können Schwierigkeiten haben, mit dem Wachstum des Netzwerks Schritt zu halten, insbesondere wenn die Anzahl der Geräte zunimmt.
 
+Es ist wichtig, diese Faktoren zu berücksichtigen, wenn man über die Implementierung eines Bussystems nachdenkt.
 ### 1. Quiz 
 
+**Ordne die folgenden Begriffe jeweils als Vor- oder Nachteil eines Bussystems zu!**
+
+<!--
+    data-randomize 
+    data-solution-button="off" 
+-->
+- [ [Vorteil]   [Nachteil] ]
+- [ [x]         [ ]        ]   Automatisierung und Kontrolle
+- [ [x]         [ ]        ]   Energieeffizienz und Kosteneinsparungen
+- [ [x]         [ ]        ]   Sicherheit
+- [ [x]         [ ]        ]   Flexibilität
+- [ [x]         [ ]        ]   Vereinfachte Installation und Wartung
+- [ [x]         [ ]        ]   Datenaustausch
+- [ [ ]         [x]        ]   Komplexität
+- [ [ ]         [x]        ]   Kosten
+- [ [ ]         [x]        ]   Fehleranfälligkeit
+- [ [ ]         [x]        ]   Skalierbarkeit
 ## Netzwerktopologien
 
 Es gibt verschiedene Arten von Netzwerktopologien, die in Eingesetzt verwendet werden können:
 
-1. **Stern-Topologie (Star Topology)**: In dieser Topologie ist jeder Knoten (z.B. Computer, Drucker) über eine separate Verbindung direkt mit einem zentralen Netzwerkknoten verbunden. Der zentrale Netzwerkknoten könnte ein Netzwerk-Switch, Hub oder Router sein.
-2. **Ring-Topologie (Ring Topology)**: In einer Ring-Topologie sind alle Knoten in Form eines geschlossenen Schleifenrings miteinander verbunden. Jeder Knoten ist genau mit zwei anderen Knoten verbunden.
-3. **Bus-Topologie (Bus Topology)**: Bei einer Bus-Topologie sind alle Knoten entlang einer einzigen Kabelstrecke, dem sogenannten "Backbone", verbunden. 
-4. **Baum-Topologie (Tree Topology)**: Eine Baum-Topologie ist eine Erweiterung der Stern-Topologie. In der Baum-Topologie sind mehrere Stern-Topologien auf einem zentralen Bus aufgebaut.
-5. **Maschen-Topologie (Mesh Topology)**: In einer Maschen-Topologie ist jeder Knoten mit vielen (in einigen Fällen mit allen) anderen Knoten verbunden. 
+**Stern-Topologie (Star Topology)**: In dieser Topologie ist jeder Knoten (z.B. Computer, Drucker) über eine separate Verbindung direkt mit einem zentralen Netzwerkknoten verbunden. Der zentrale Netzwerkknoten könnte ein Netzwerk-Switch, Hub oder Router sein.
+
+![Alt text](assets/netzwerktopologie_stern.png "*Abb.: Stern-Topologie*")
+
+**Ring-Topologie (Ring Topology)**: In einer Ring-Topologie sind alle Knoten in Form eines geschlossenen Schleifenrings miteinander verbunden. Jeder Knoten ist genau mit zwei anderen Knoten verbunden.
+
+![Alt text](assets/netzwerktopologie_ring.png "*Abb.: Ring-Topologie*")
+
+**Bus-Topologie (Bus Topology)**: Bei einer Bus-Topologie sind alle Knoten entlang einer einzigen Kabelstrecke, dem sogenannten "Backbone", verbunden. 
+
+![Alt text](assets/netzwerktopologie_bus.png "*Abb.: Bus-Topologie*")
+
+**Baum-Topologie (Tree Topology)**: Eine Baum-Topologie ist eine Erweiterung der Stern-Topologie. In der Baum-Topologie sind mehrere Stern-Topologien auf einem zentralen Bus aufgebaut.
+
+![Alt text](assets/Netzwerktopologie_Baum.png "*Abb.: Baum-Topologie*")
+
+**Maschen-Topologie (Mesh Topology)**: In einer Maschen-Topologie ist jeder Knoten mit vielen (in einigen Fällen mit allen) anderen Knoten verbunden. 
+
+![Alt text](assets/R.png "*Abb.: Maschen-Topologie*")
 
 Jede Topologie hat ihre spezifischen Einsatzmöglichkeiten und Vorteile. Die Wahl der Bustopologie hängt von den spezifischen Anforderungen des Netzwerks ab.
 
 ### 2. Quiz
+
+**Weisen Sie den jeweiligen Beschreibungen die passende Neztwektopologie zu!**
+
+| Topologie | Beschreibung |
+|-----------|--------------|
+| [[Stern | Ring | (Bus) | Baum | Masche]] | In dieser Topologie sind alle Knoten entlang einer einzigen Kabelstrecke, dem sogenannten "Backbone", verbunden. |
+| [[Stern | Ring | Bus | Baum | (Masche)]] | In dieser Topologie ist jeder Knoten mit vielen (in einigen Fällen mit allen) anderen Knoten verbunden. |
+| [[(Stern) | Ring | Bus | Baum | Masche]] | In dieser Topologie ist jeder Knoten über eine separate Verbindung direkt mit einem zentralen Netzwerkknoten verbunden. |
+| [[Stern | Ring | Bus | (Baum) | Masche]] | In dieser Topologie sind mehrere Stern-Topologien auf einem zentralen Bus aufgebaut. |
+| [[Stern | (Ring) | Bus | Baum | Masche]] | In dieser Topologie sind alle Knoten in Form einer geschlossenen Schleife miteinander verbunden. |
+
 ## OSI-Schichten Modell
 
 Das OSI-Modell (Open Systems Interconnection) ist ein Referenzmodell für Netzwerkprotokolle[^8]. Es wurde von der International Organization for Standardization (ISO) entwickelt, um die standardisierte Kommunikation zwischen verschiedenen Computersystemen zu ermöglichen[^9]. Das Modell besteht aus sieben Schichten[^10]:
@@ -90,6 +134,8 @@ Das OSI-Modell (Open Systems Interconnection) ist ein Referenzmodell für Netzwe
 Jede Schicht erfüllt dabei eine bestimmte Aufgabe und kommuniziert mit den Schichten direkt über und unter ihr. Die Schichten können miteinander kommunizieren und Daten unter sich austauschen. Bei der Kommunikation zwischen zwei Systemen werden alle sieben Schichten mindestens zwei Mal angewendet: jeweils einmal beim Sender und einmal beim Empfänger[^11]. 
 
 Das OSI-Modell ist kein konkreter Netzwerkstandard, sondern beschreibt in abstrakter Form, welche Vorgänge geregelt werden müssen, damit die Kommunikation über ein Netzwerk funktioniert. Es bietet als konzeptioneller Rahmen eine Design-Grundlage für herstellerunabhängige Kommunikationsstandards[^9].
+
+![OSi-Schichtenmodell](assets/osi.jpg "*Abb.: OSI-Schichtenmodell*")
 
 [^8]: OSI-Modell - Wikiwand. https://www.wikiwand.com/de/OSI-Modell.
 [^9]: OSI Modell • 7 Schichten Modell, Erklärung, Anwendung. https://studyflix.de/informatik/osi-modell-5524.
@@ -125,99 +171,115 @@ AS-Interface ist ein effektives, leistungsstarkes Bussystem, das die Sensoren un
 [^16]: ASi Bus System im Überblick - ifm - ifm electronic. https://www.ifm.com/de/de/shared/technologien/as-interface/systemuberblick.
 [^17]: AS-Interface Basiswissen – So funktioniert das Bussystem für die .... https://www.elektormagazine.de/articles/as-interface-basiswissen-so-funktioniert-das-bussystem-fur-die-industrieautomation.
 [^18]: ASi Bus/AS-Interface - Tools & Diagnosegeräte - Indu-Sol. https://www.indu-sol.com/produkte/as-interface/diagnose/.
-### Komponenten des AS-Interface
-Das ASi-System besteht aus vier Hauptkomponenten:
 
-- **ASi-Master:** Der ASi-Master organisiert den Datenverkehr im Netzwerk und stellt die Verbindung zwischen dem ASi-Kreis und der übergeordneten Steuerung her. Er behandelt die Eingabe eines ASi-Netzwerks in ein vorhandenes Feldbus- oder Ethernet-System genauso einfach wie die Integration eines beliebigen E/A-Moduls[^1].
-- **ASi-Netzteil:** Das ASi-Netzteil liefert die benötigte Energie für das System.
-- **ASi-Kabel:** Das gelbe ASi-Kabel ist eine ungeschirmte, zweipolige Leitung, die sowohl Daten als auch Energie überträgt. Dank der Durchdringungstechnik können Teilnehmer einfach auf das profilierte und damit verpolungssichere ASi-Kabel montiert werden. Eine zusätzliche Versorgung mit 24 V ist dank eines zusätzlichen AUX Profilkabels problemlos möglich[^1].
-- **ASi-Teilnehmer:** Die ASi-Teilnehmer sind die Sensoren und Aktuatoren, die mit dem ASi-Master über das ASi-Kabel verbunden sind. Jeder Teilnehmer kann standardmäßig über jeweils vier Eingänge zum Auslesen von vier Sensoren und vier Ausgänge zum Steuern von Aktuatoren verfügen[^2].
+### Einordnung in das ISO/OSI-Referenzmodell[^19]
 
-[^1]: https://www.bihl-wiedemann.de/de/unternehmen/technologische-grundlagen/bussysteme/asi-bussystem
-[^2]: https://www.as-interface.de/de/as-interface/technik/
+Wie alle Kommunikations-Systeme lässt sich auch AS-Interface in das ISO/OSI-Referenzmodell mit seinen 7 Ebenen einordnen.
 
-#### ASi-Master
+Tabelle Übersicht ISO/OSI-Layer
+![ASi Einordnung OSI](assets/ASi_OSI.png "*Abb.: Einordnung von ASi in das OSI-Schichtenmodell*")
 
-Der AS-Interface Master ist die zentrale Einheit des AS-Interface-Systems. 
-Er übernimmt die Steuerung des Datenaustauschs zu den einzelnen Teilnehmern (Slaves) im AS-Interface-Netzwerk. Der Master wertet die Telegramme der Slaves aus, sendet neue Funktionsparameter und überwacht gleichzeitig die Busfunktion[^3].
+Wie bei anderen Feldbussen auch, sind bei AS-Interface aber nur die Ebenen 1, 2 und 7 realisiert. Die anderen Ebenen entfallen wegen der einfachen Struktur des Netzes, weil die Teilnehmer ständig verbunden sind und weil die Übersetzung der Datenformate ggf. von der Ebene 7 mit übernommen wird.
 
-Der AS-Interface Master ist in der Regel ein SIMATIC-Produkt, das für Industrie-PCs und Automatisierungsgeräte angeboten wird. 
-Die Palette der verfügbaren Masteranschaltungen wird laufend erweitert, sodass das AS-Interface-System flexibel angepasst werden kann[^4].
+ABER: Die Einordnung in das Referenzmodell bedeutet nicht, dass AS-Interface entsprechend den Vorgaben des ISO/OSI Referenzmodells spezifiziert ist!
 
-Die Hauptaufgaben des AS-Interface Masters sind:
+So sind die Ebenen bei AS-Interface keineswegs rückwirkungsfrei aufeinander aufgebaut. Die Datensicherung in der Ebene 2 beispielsweise verwendet zahlreiche Eigenschaften der Ebene 1. Nur auf diese Weise ist es möglich, sehr effektiv eine ausgezeichnete Fehlererkennungsrate zu erzielen.
 
-- Steuerung des Datenaustauschs zu den Slaves
-- Auswertung der Telegramme der Slaves
-- Senden neuer Funktionsparameter
-- Überwachung der Busfunktion
-- Kommunikation mit der übergeordneten Steuerung
+[^19]: https://www.as-interface-academy.net/mod/lesson/view.php?id=32&pageid=13
 
-Der AS-Interface Master arbeitet im Master-Slave-Verfahren, bei dem es pro AS-Interface-Netzwerk nur einen Master gibt, der den Datenaustausch steuert. 
-Dieser ruft nacheinander alle AS-Interface-Slaves auf und erwartet deren Antwort[^4].
+### Die physikalische Schicht[^20]
+Zur physikalischen Schicht von AS-Interface gehören folgende Elemente:
 
-[^3]: https://www.weka.de/elektrosicherheit/as-interface/
-[^4]: https://www.manualslib.de/manual/181576/Siemens-As-Interface.html
+- AS-Interface Leitung und Netzwerk
+- AS-Interface Energieversorgung und Datenentkopplung
+- Modulationsverfahren
+- AS-Interface Repeater und andere Komponenten zur Netzverlängerung
 
-#### ASi-Netzteil
+AS-Interface Repeater und andere Komponenten zur Netzverlängerung gehören ebenfalls zur physikalischen Schicht, weil sie es erlauben, Netzwerke zu verlängern und Netz-Segmente galvanisch voneinander zu trennen. Diese Produkte werden Sie im Modul "weitere Netzkomponenten" noch ausführlich kennen lernen.
 
-Ein AS-Interface Netzteil ist ein spezielles Netzteil, das zur Versorgung des AS-Interface (ASi) Systems mit Strom verwendet wird. Es hat die Aufgabe, die angeschlossenen Module, Sensoren und Aktuatoren zuverlässig mit Strom zu versorgen. 
+[^20]: https://www.as-interface-academy.net/mod/lesson/view.php?id=32&pageid=14 
+#### Die AS-Interface Leitung[^21]
+Für die AS-Interface Leitung wurde ein Leitungsmodell mit folgenden Grenzdaten spezifiziert.
 
-Neben der Versorgung des Netzes muss das ASi Netzteil gleichzeitig eine Datenentkopplung gewährleisten. Deswegen dürfen für die Versorgung des Netzes keine Standardnetzteile, sondern nur spezielle AS-Interface-Netzteile verwendet werden.
+AS-Interface Leitungsmodell
+![AS-Interface Leitungsmodell](assets/ASi_Leitungsmodell.png "*AS-Interface Leitungsmodell*")
 
-Ein typisches AS-Interface Netzteil hat einen primärseitigen Anschluss an 120 V AC / 230 V AC (1-phasig) mit automatischer Bereichsumschaltung. Der sekundärseitige Ausgang liefert 30 V DC bei max. 8A. Es verfügt über eine Diagnose-LED und einen Meldekontakt "30 V okay".
+**Grenzdaten:**
 
-#### ASi-Kabel
+- $R' < 90 mΩ/m$
+- $L' = 400...1300 nH/m$
+- $C' < 80 pF/m$
+- $G' < 5 µS/m$
 
-Als bevorzugte Leitung zum Aufbau von AS-Interface Netzwerken wurde folgendes gelbe Zweileiter-Flachband entwickelt.
+Zusätzlich wurde der Wellenwiderstand $|Z|$ auf den Bereich von $70...140 Ω$ und die Gruppenlaufzeit auf $t‘ < 8,3ns/m$ eingeschränkt, um ungünstige Kombinationen von $R‘, L‘$ und $C‘$ auszuschließen.
 
-![Alt text](assets/ASI_Flachbandkabel.png)
+Besonders geeignet für den Aufbau von AS-Interface Netzwerken ist natürlich das gelbe Zweileiter-Flachkabel. Es ist Basis der Elektromechanik von AS-Interface für die Schutzart IP67 und erlaubt den Einsatz der effizienten Durchdringungstechnik, auf die wir später noch näher eingehen werden. Die Leiter haben typischerweise einen Querschnitt von 1,5mm² oder 2,5mm².
 
-Es ist Basis der Elektromechanik von AS-Interface für die Schutzart IP67 und erlaubt den Einsatz der Durchdringungstechnik. Die Leiter haben typischerweise einen Querschnitt von 1,5mm² oder 2,5mm².
 
+![Abbildung IP67 AS-Interface Kabel](assets/Abbildung_IP67_ASi_Kabel.jpg "*Abbildung IP67 AS-Interface Kabel*")
+
+
+Diese Daten werden aber auch von zahlreichen anderen standardisierten Leitungen erfüllt. Ein AS-Interface Netzwerk kann also mit sehr unterschiedlichen Leitungen aufgebaut werden, ein Beispiel ist die Starkstrom-Leitung H05VV-F2x1,5.
+
+![Abbildung Starkstrom-Leitung H05VV-F2x1,5](assets/ASi_Starkstrom_Leitung.png "*Abbildung Starkstrom-Leitung H05VV-F2x1,5*")
+
+Auch mehradrige Kabel oder Stromschienen sind bereits erfolgreich für den Aufbau von AS-Interface Netzwerken verwendet worden. In Zweifelsfällen sollte jedoch in der Planungsphase ein Fachmann konsultiert werden.
+
+**Für die Auswahl eines geeigneten Übertragungsmediums das für AS-Interface sind zwei elektrische Eigenschaften von Bedeutung:**
+
+- Gleichstromwiderstand für die Energieübertragung
+- Übertragungseigenschaften im Frequenzbereich, der für die Kommunikation verwendet wird
+
+Der Gleichstromwiderstand ist ohne Bedeutung, solange der Gesamtstrom durch das AS-Interface Netzwerk kleiner ist als etwa 1A.
+
+
+![Abbildung Leitungsmodell](assets/ASi_Leitungsmodell_einfach.png "*Abbildung Leitungsmodell*")
+
+Da es technisch aber möglich ist, Ströme bis über 8A in das Netzwerk einzuspeisen, muss gegebenenfalls überprüft werden, ob der resultierende Spannungsfall nicht zu groß wird. Die Folge könnte sein, dass die Slaves am Ende der Leitung nicht ausreichend spannungsversorgt werden und angeschlossene Aktuatoren nicht mehr zuverlässig funktionieren.
+
+**Praxistipp:**
+
+**Bei einem Gesamtstrom größer 1A ist der Spannungsfall zu prüfen, damit die Spannungsversorgung aller Slaves gewährleistet ist und alle Aktuatoren zuverlässig funktionieren!**
+
+Es klingt trivial, muss aber bedacht werden: Die AS-Interface Technologie kann das Ohmsche Gesetz nicht außer Kraft setzen!
+
+[^21]: https://www.as-interface-academy.net/mod/lesson/view.php?id=32&pageid=15
+
+##### Flachkabel für IP67 Umgebung
+
+Die standardisierte Elektromechanik von AS-Interface rundet das System mit einer innovativen Installations- und Montagetechnik ab. Sie liefert einen wesentlichen Beitrag zur Kostensenkung.
+
+![Abbildung IP67 AS-Interface Kabel](assets/Abbildung_IP67_ASi_Kabel.jpg "*Abbildung IP67 AS-Interface Kabel*")
+
+Im Bild dargestellt ist das gelbe AS-Interface Flachkabel für die Installation im Feld. Dieses Kabel ist zum Markenzeichen von AS-Interface geworden.
+
+Die verfügbaren Mantelwerkstoffe decken mit ihren mechanischen und chemischen Eigenschaften die Beständigkeitsanforderungen, wie sie in der industriellen Automatisierungstechnik vorkommen, weitestgehend ab.
+
+verfügbare Mantelwerkstoffe:
+- EPR Gummimischung EM3 nach DIN VDE 0207 Teil 21
+- TPE YM5 nach DIN VDE 0207 Teil 5
+- PUR nach CENELEC HD 22, T 10
+  
 Das Kabel gibt es in der Mantelfarbe "verkehrsgelb" für das AS-Interface Netzwerk sowie in der Mantelfarbe "schwarz" für die Hilfsenergie, die für manche Feldgeräte separat zugeführt werden kann.
 
-Für eine IP20 Umgebung, wie zum Beispiel in Schaltschränken, Verteilerkästen und ähnlich geschützten Umgebungen, kann auch das folgende Doppeladerkabel zum Einsatz kommen.
+##### Doppelader für IP20 Umgebung
 
-![Alt text](assets/ASi_Doppelader.png)
+Als Ergänzung des AS-Interface Flachkabels wurde die hier gezeigte Doppelader für den Einsatz in IP20-Umgebungen (in Schaltschränken, Verteilerkästen und ähnlichen geschützten Umgebungen) eingeführt. Sie ist nicht für die Feldinstallation geeignet.
 
-Dessen Leiterquerschnitte belaufen sich auf 2 x 0,8mm². Diese Doppelader ist optimiert für die Kontaktierung mittels Schneidklemm-Technik.
+![Abbildung Leiter 18 AWG](assets/Asi_Leiter_18_AWG.png "*Abbildung Leiter 18 AWG*")
 
-Die Leitungslänge beträgt 100 m, erweiterbar auf bis zu 1.000 m, mit Lichtwellenleitern auf bis zu 3.000 m möglich
+Sie hat einen Leiterquerschnitt von 2 x 0,8mm² und verfügt neben der farblichen auch über eine mechanische Kennung. Diese Doppelader ist optimiert für die Kontaktierung mittels Schneidklemm-Technik. Hierbei wird jede Ader in eine Art Gabel eingepresst, wobei die Aderisolation durchschnitten und ein sicherer Kontakt hergestellt wird.
 
+Auch hier entfallen Arbeiten wie das Auftrennen, Abisolieren, Aderendhülse montieren, Anklemmen, Schirm auflegen. Die AS-Interface Doppelader ist – weil für geschützte IP20 Umgebung nur einfach isoliert und mit einem geringeren Leiterquerschnitt ausgestattet – beweglicher und leichter handhabbar als das gelbe Flachkabel.
 
-Die Durchdringungstechnik, auch als Klick-and-Go-Technik bezeichnet, ist eine spezielle Montagetechnik, die bei AS-Interface verwendet wird[^1]. Sie basiert auf der Verwendung des meist gelben ASi Kabels, einer verpolsicheren Flachleitung mit zwei Leitern[^1].
+##### Durchdringungstechnik
 
-Bei der Montage bohren sich die Durchdringungsdorne des anzuschließenden Geräts in die Leiter des Kabels und stellen sicher den Kontakt her[^1]. Dies ermöglicht einen direkten, einfachen Anschluss von Sensoren/Aktuatoren oder Modulen[^1]. 
+Das gelbe Kabel hat einen Leiterquerschnitt von 2 x 1,5mm² und verfügt über eine Codierleiste, so dass es nur seitenrichtig gepolt eingelegt und kontaktiert werden kann. Die Kontaktierung (Durchdringungstechnik) erfolgt durch Kontaktmesser oder -dorne, die den Kunststoff des Mantels und der Ader durchdringen und einen sicheren Kontakt herstellen. Auftrennen, Abisolieren, Aderendhülsen montieren, Anklemmen, Schirm auflegen: alles das entfällt. Auch eine Konfektionierung der Leitung ist nicht mehr notwendig, weil das Kabel an jeder gewünschten Stelle kontaktiert werden kann.
 
-Einige Vorteile dieser Technik sind[^1]:
-- **Verpolsichere Flachleitung**: Daten und Energie werden auf einer Leitung übertragen.
-- **Einfachste Anschlusstechnik**: Sichere Kontaktierung, Schutzart IP67.
-- **Ablängen und Abisolieren unnötig**: An jeder beliebigen Stelle montierbar.
-- **Problemloses Versetzen durch Selbstheilungsfähigkeit des Kabels**: Je nach Kabeltyp möglich.
+![Abbildung M12-Abgriff](assets/ASi_M12_Abgriff.png "*Abbildung M12-Abgriff*")
 
-Die Durchdringungstechnik sorgt für den zuverlässigen Anschluss des ASi Bauteils an die Leitung des ASi Netzes[^1].
+Für das Herstellen von Abzweigen, Stichleitungen usw., für das Befestigen des Flachkabels, für das Einführen des Flachkabels durch DIN-Verschraubungen in Gehäuse usw. gibt es eine Fülle von Zubehör. Hierfür sei auf die Produktdatenbank von AS-International verwiesen: http://www.as-interface.net/… (Stichwort: Zubehör und Anderes/Verbindungsmodule/Montageplatten). Auch zahlreiche Module und Feldgeräte können direkt an das gelbe Flachkabel angeschlossen werden.
 
-[^1]: Montage mit Durchdringungstechnik - Beckhoff Automation. https://infosys.beckhoff.com/content/1031/el6201/2328957963.html.
-[^2] AS-Interface – Wikipedia. https://de.wikipedia.org/wiki/AS-Interface.
-[^3] Was bedeutet Durchdringungstechnik - Definition. https://www.meister-automation.de/durchdringungstechnik/.
-[^4] ASi/AS-Interface | DriveCon-Lexikon. https://www.drivecon.de/de/lexikon/asi.
-#### ASi-Teilnehmer
+**Schneidklemm-Technik**
 
-AS-Interface Teilnehmer, auch als Slaves bezeichnet, sind alle Geräte im AS-Interface System, die vom Master überwacht und angesprochen werden. Es gibt grundsätzlich drei verschiedene Arten von Slaves[^5]:
-
-1. **AS-Interface-Module**: Diese sind spezielle Module, die für die Kommunikation mit dem AS-Interface entwickelt wurden.
-2. **Sensoren und Aktoren mit integriertem AS-Interface-Anschluss**: Diese Geräte haben einen eingebauten AS-Interface-Anschluss, der es ihnen ermöglicht, direkt mit dem AS-Interface zu kommunizieren.
-3. **AS-Interface-Analog-Slaves**: Diese Geräte können analoge Signale über das AS-Interface senden und empfangen.
-
-Die Teilnehmer werden mithilfe der Durchdringungstechnik an die Leitung kontaktiert. Diese Methode ermöglicht einen kleinen Übergangswiderstand und garantiert eine sichere Datenverbindung.
-
-Im AS-Interface können Sie bis zu **31 Slaves** im Standardmodus einbinden[^6]. In der erweiterten Version, die durch Verwendung des Datenbits D3 als sechstes Bit zur Adressierung dient, können sogar **62 Slaves** adressiert werden[^7]. Es ist zu beachten, dass die Zykluszeit mit der Anzahl der Slaves variiert. Sie beträgt 5 ms mit 31 Slaves und 10 ms mit 62 Slaves[^8].
-
-[^5]: Das AS-Interface in aller Kürze: Was Sie unbedingt wissen sollten!. https://www.weka.de/elektrosicherheit/as-interface/.
-[^6]: ASI Anzahl E/As grundlagen Problem - SPS-Forum. https://www.sps-forum.de/threads/asi-anzahl-e-as-grundlagen-problem.75133/.
-[^7]: AS-Interface Introduction - Siemens. https://assets.new.siemens.com/siemens/assets/api/uuid:278af380-950c-4a80-82e7-15e55dc2c9ed/chapter-14a-as-interface.pdf.
-[^8]: Das AS-Interface in aller Kürze: Was Sie unbedingt wissen sollten!. https://www.weka.de/elektrosicherheit/as-interface/.
-
-#### 4. Quiz
-### Kommunikationsprinzip
-
+Für das Herstellen von Abzweigen, Stichleitungen, Anschlüssen usw. gibt es ebenfalls zahlreiches Zubehör. Hierfür sei auf die Produktdatenbank von AS-International verwiesen: http://www.as-interface.net/… (Stichwort: Zubehör und Anderes/Verbindungsmodule/Montageplatten).
