@@ -65,7 +65,7 @@ Zusammenfassend lässt sich sagen, dass das Lastenheft die Anforderungen und Erw
 | [[ Lastenheft | (Pflichtenheft) ]] | Dieses Dokument wird vom Auftragnehmer erstellt und basiert auf dessen Anforderungen und Erwartungen.|
 | [[ (Lastenheft) | Pflichtenheft ]] | Dieses Dokument wird vom Auftraggeber erstellt und enthält eine detaillierte Beschreibung der Anforderungen und Erwartungen an das Projekt.|
 
-## Inhalt eines Lastenheft nach DIN
+## Inhalt eines Lastenheft
 
 Ein Lastenheft nach DIN 69901-5 sollte folgende Punkte enthalten:[^1][^2][^3][^4]
 
@@ -88,9 +88,9 @@ Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers
 [^3]: Lastenheft - Alle wichtigen Informationen nachlesen Lexware. https://www.lexware.de/wissen/unternehmerlexikon/lastenheft/.
 [^4]: Ein Lastenheft erstellen: Definition, Vorlage & Aufbau - Appvizer. https://www.appvizer.de/magazin/organisation-planung/projektmanagement/lastenheft-erstellen.
 
-## Inhalte eines Pflichtenheft nach DIN
+## Inhalte eines Pflichtenheft
 
-Ein Pflichtenheft nach DIN 69901-5 sollte folgende Punkte enthalten[^1][^2][^4]:
+Ein Pflichtenheft nach DIN 69901-5 sollte folgende Punkte enthalten [^1][^2][^3][^4]:
 
 1. **Geltungsbereich**: Beschreibung des Anwendungsbereichs des Projekts oder Produkts.
 2. **Allgemeine Anforderungen**: Übersicht über die allgemeinen Anforderungen, die das Projekt oder Produkt erfüllen muss.
@@ -225,52 +225,13 @@ Es ist wichtig zu beachten, dass das Pflichtenheft auf den Ausführungen basiert
 | 8. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | (Mögliche Risiken identifizieren) | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
 | 9. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | (Umsetzung von Test- und Qualitätsmanagementprozessen) ]] |
 | 10. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | (Pflichtenheft überprüfen und freigeben) | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
-## Beispiel für ein Lasten- und Pflichtenheft
+## Aufgabe
 
-**Lastenheft für ein neues CRM-System**
+**Lassen Sie sich von einer KI jeweils ein Lasten- und das dazugehörige Pflichtenheft generieren.**
 
-1. **Einführung**: Unser Unternehmen benötigt ein neues CRM-System, um die Kundenbeziehungen effizienter zu verwalten und den Vertrieb zu verbessern.
-2. **Anforderungen**: Das System sollte in der Lage sein, Kundendaten zu speichern und zu verwalten, Verkaufsprozesse zu automatisieren, Berichte zu erstellen und den Kundenservice zu unterstützen.
-3. **Rahmenbedingungen**: Das System muss mit unseren bestehenden IT-Systemen kompatibel sein und den Datenschutzbestimmungen entsprechen.
-4. **Vertragliche Konditionen**: Das Projekt sollte innerhalb von sechs Monaten abgeschlossen sein und das Budget darf 50.000 Euro nicht überschreiten.
+**Beachte Sie folgende Rahmenbedingungen:**
 
-**Pflichtenheft für ein neues CRM-System**
-
-1. **Technische Struktur**: Das CRM-System wird auf einer SQL-Datenbank basieren und eine Web-basierte Benutzeroberfläche haben.
-2. **Funktionalität**: Das System wird Funktionen für Kontaktmanagement, Verkaufsautomatisierung, Berichterstattung und Kundenservice bieten.
-3. **Integration**: Das System wird APIs verwenden, um sich mit unseren bestehenden IT-Systemen zu verbinden.
-4. **Datenschutz**: Das System wird Verschlüsselung und andere Sicherheitsmaßnahmen verwenden, um die Datenschutzbestimmungen einzuhalten.
-5. **Zeitplan und Kosten**: Das Projekt wird in vier Phasen durchgeführt: Planung, Entwicklung, Testen und Implementierung. Jede Phase wird etwa sechs Wochen dauern und die Gesamtkosten werden auf 45.000 Euro geschätzt.
-
-Bitte beachten Sie, dass dies nur ein sehr einfaches Beispiel ist und ein tatsächliches Lasten- und Pflichtenheft viel detaillierter sein würde, abhängig von der Komplexität des Projekts. Es ist wichtig, dass beide Dokumente sorgfältig erstellt und überprüft werden, um sicherzustellen, dass sie alle Anforderungen und Erwartungen des Projekts abdecken.
-
-### 1. Aufgabe
-
-Erstelle für die folgenden drei Lastenhefte jeweils schriftlich ein kurzes Pflichtenheft.
-
-**Lastenheft 1: Entwicklung einer Website für ein Restaurant**
-
-1. **Einführung**: Unser Restaurant benötigt eine neue Website, um unseren Kunden Informationen über unser Menü, unsere Öffnungszeiten und Standorte zu bieten.
-2. **Anforderungen**: Die Website sollte in der Lage sein, unser Menü anzuzeigen, Online-Bestellungen zu verarbeiten und Kundenbewertungen zu sammeln.
-3. **Rahmenbedingungen**: Die Website muss auf allen gängigen Browsern funktionieren und mit unserem bestehenden Bestellsystem kompatibel sein.
-4. **Vertragliche Konditionen**: Das Projekt sollte innerhalb von drei Monaten abgeschlossen sein und das Budget darf 10.000 Euro nicht überschreiten.
-
-[[___ ___ ___ ___]]
-
-**Lastenheft 2: Entwicklung einer mobilen App für ein Fitnessstudio**
-
-1. **Einführung**: Unser Fitnessstudio plant die Entwicklung einer mobilen App, um unseren Mitgliedern ein besseres Trainingserlebnis zu bieten.
-2. **Anforderungen**: Die App sollte in der Lage sein, Trainingspläne anzuzeigen, Buchungen für Kurse zu verarbeiten und Fortschrittsberichte zu erstellen.
-3. **Rahmenbedingungen**: Die App muss auf iOS- und Android-Geräten funktionieren und mit unserem bestehenden Buchungssystem kompatibel sein.
-4. **Vertragliche Konditionen**: Das Projekt sollte innerhalb von sechs Monaten abgeschlossen sein und das Budget darf 50.000 Euro nicht überschreiten.
-
-[[___ ___ ___ ___]]
-
-**Lastenheft 3: Entwicklung eines Online-Buchungssystems für ein Hotel**
-
-1. **Einführung**: Unser Hotel benötigt ein neues Online-Buchungssystem, um unseren Gästen ein besseres Buchungserlebnis zu bieten.
-2. **Anforderungen**: Das System sollte in der Lage sein, Zimmerverfügbarkeiten anzuzeigen, Buchungen zu verarbeiten und Zahlungen zu akzeptieren.
-3. **Rahmenbedingungen**: Das System muss mit unseren bestehenden IT-Systemen kompatibel sein und den Datenschutzbestimmungen entsprechen.
-4. **Vertragliche Konditionen**: Das Projekt sollte innerhalb von neun Monaten abgeschlossen sein und das Budget darf 100.000 Euro nicht überschreiten.
+- Es sollte ein Beispiel aus der IT werden.
+- Das Beispiel sollte die zuvor aufgezeigten Gliederungen verwenden.
 
 [[___ ___ ___ ___]]
