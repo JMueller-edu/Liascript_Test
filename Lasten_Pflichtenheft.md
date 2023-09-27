@@ -255,7 +255,7 @@ Es ist wichtig zu beachten, dass das Pflichtenheft auf den Ausführungen basiert
 | 8. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | (Mögliche Risiken identifizieren) | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
 | 9. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | Pflichtenheft überprüfen und freigeben | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | (Umsetzung von Test- und Qualitätsmanagementprozessen) ]] |
 | 10. | [[ Beschreibung der Prozessabläufe | Dokumentation der Ausgangslage und Definition der Ziele | Erstellung einer Soll-Konzeption | Funktionalität und technische Anforderungen | Mögliche Risiken identifizieren | (Pflichtenheft überprüfen und freigeben) | Realistische Zeit- und Ressourcenplanung | Tabellarische Übersicht | Technische Struktur | Umsetzung von Test- und Qualitätsmanagementprozessen ]] |
-### Gruppenarbeit
+## Gruppenarbeit
 
 **Arbeitsauftrag:**
 
