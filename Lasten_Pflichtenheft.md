@@ -14,9 +14,7 @@ comment:  LF14 Höhere Berufsfachschule Information Technik
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
-
 -->
-
 # Lernsituation: Erstellung eines Lasten- und Pflichtenheft
 
 ![Alt text](assets/Titelbild_Lasten_Pflichten.png)
@@ -156,7 +154,7 @@ Diese Elemente helfen dabei, die Anforderungen und Erwartungen des Auftraggebers
 - [ [ ]             [x]             ]   Produktlebensdauer
 - [ [ ]             [x]             ]   Spezifikationen
 - [ [ ]             [x]             ]   Abnahmekriterien
-- [ [x]             [ ]             ]   Anforderungen an den Auftraggeber
+- [ [x]             [ ]             ]   Anforderungen an den Auftragnehmer
 - [ [x]             [ ]             ]   Anforderungen an das Projektmanagement des Auftragnehmers
 - [ [x]             [ ]             ]   Beschreibung des Ist-zustands
 - [ [x]             [ ]             ]   Beschreibung des Soll-Konzepts
