@@ -210,9 +210,13 @@ Nachdem Sie einen PC zusammengebaut haben, gibt es einige Dinge, die Sie tun sol
 
 ## Lernkarten
 
+![Alt text](assets/Learning.jpg)
+
 ??[Lernkarten zum Zusammenbau eines PCs](https://app.mochi.cards/decks/67233147-73f4-462a-984f-207550c6f793/jWlG4aRL/ZusammenbaueinesPCs)
 
 ## Kompetenzcheck
+
+![Alt text](assets/Quiz.jpg)
 
 **1. Welche Bedingungen sollte ein Arbeitsplatz für die PC-Montage erfüllen?**
 
