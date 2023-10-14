@@ -15,7 +15,6 @@ link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 -->
-
 # Bussysteme
 
 ![Alt text](assets/Bussysteme.png)
@@ -329,3 +328,11 @@ Für das Herstellen von Abzweigen, Stichleitungen, Anschlüssen usw. gibt es ebe
     [[ ]] Doppelader für IP67 Umgebung
     [[ ]] Doppelader mit 2 x 1,5mm²
     [[ ]] Flachkabel mit 2 x 0,8mm²
+
+
+## Lernkarten
+
+Um wichtige Inhalte zu festigen gehen Sie bitte folgende Lernkarten durch.
+
+??[Mochi Karteikarten](https://app.mochi.cards/decks/67233147-73f4-462a-984f-207550c6f793/1ZXP7UTP/Get-Started)
+
