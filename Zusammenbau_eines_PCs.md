@@ -9,7 +9,7 @@ language: Deutsch
 
 narrator: Deutsch Female
 
-comment:  Bei der Erstellung dieser Arbeitsmaterialien wurde Bing-Chat verwendet. Als Initial-Prompts wurden meist die im Text befindlichen Überschriften als Frage fromuliert verwendet. 
+comment:  Bei der Erstellung dieser Arbeitsmaterialien wurde Bing-Chat verwendet. Als Initial-Prompts wurden meist die im Text befindlichen Überschriften in Frageform verwendet. 
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
