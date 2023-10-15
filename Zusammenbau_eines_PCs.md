@@ -1,6 +1,6 @@
 <!--
-author:   
-email:    
+author: Jan Müller  
+email:  SmFuLk11ZWxsZXI0QHNjaHVsZS5oZXNzZW4uZGU= (base64;-)
 version:  0.1.0
 language: Deutsch
 narrator: Deutsch Female
