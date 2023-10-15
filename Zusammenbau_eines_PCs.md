@@ -1,18 +1,19 @@
 <!--
-author: Jan Müller  
+author: Jan Mueller
+
 email:  SmFuLk11ZWxsZXI0QHNjaHVsZS5oZXNzZW4uZGU= (base64;-)
+
 version:  0.1.0
+
 language: Deutsch
+
 narrator: Deutsch Female
 
-comment:  Bei der Erstellung dieses Arbeitsmaterialien wurde Bing-Chat verwendet. 
-Als Initial-Prompts wurden meist die im Text befindlichen Überschriften als Frage fromuliert verwendet. 
+comment:  Bei der Erstellung dieser Arbeitsmaterialien wurde Bing-Chat verwendet. Als Initial-Prompts wurden meist die im Text befindlichen Überschriften als Frage fromuliert verwendet. 
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
-
-translation:
 -->
 
 # Zusammenbau eines Desktop Computers 
