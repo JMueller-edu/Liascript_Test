@@ -14,7 +14,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 translation:
 -->
 
-# Zusammenbau eines Arbeitsplatz Computers 
+# Zusammenbau eines Computers 
 
 ![Alt text](assets/PC_Zusammenbau.jpg)
 
