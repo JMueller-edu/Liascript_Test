@@ -5,7 +5,8 @@ version:  0.1.0
 language: Deutsch
 narrator: Deutsch Female
 
-comment: 
+comment:  Bei der Erstellung dieses Arbeitsmaterialien wurde Bing-Chat verwendet. 
+Als Initial-Prompts wurden meist die im Text befindlichen Überschriften als Frage fromuliert verwendet. 
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
