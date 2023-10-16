@@ -103,7 +103,7 @@ Die Körperstellung in der Verteidigung im Basketball ist eine wichtige Grundlag
 - Der Oberkörper ist aufrecht und der Kopf ist hoch. Damit hat der Spieler eine gute Sicht auf den Ball, den Gegenspieler und das Spielfeld und kann die Situation lesen und antizipieren.
 - Die Arme sind seitlich vorne mit leicht gebeugten Ellbogen angehoben und die Handflächen zeigen nach oben. Damit kann der Spieler den Gegenspieler stören, Pässe abfangen oder Würfe blockieren.
 - Die Verteidigungsposition sollte immer so sein, dass der Spieler sich zwischen dem Gegenspieler und dem Korb befindet. Damit kann er den Zugang zum Korb erschweren und den Winkel für einen Wurf verkleinern.
-- 
+  
 ![Alt text](assets/defence_position.jpg)
 
 Die Körperstellung in der Verteidigung im Basketball sollte immer an die Spielsituation angepasst werden. Zum Beispiel sollte der Spieler seinen Abstand zum Gegenspieler je nach dessen Stärken und Schwächen variieren. Wenn der Gegenspieler ein guter Distanzschütze ist, sollte der Spieler näher an ihm dran sein, um den Wurf zu erschweren. Wenn der Gegenspieler ein guter Penetrator ist, sollte der Spieler etwas mehr Abstand halten, um den Zug zum Korb zu verhindern[^8].
@@ -147,3 +147,81 @@ Gruppentaktiken in der Verteidigung im Basketball sind die gezielten Strategien,
 - [Basketball: Mischformen aus Zonenverteidigung und Mann-gegen-Mann ....](https://www.trainingsworld.com/training/taktiktraining/basketball-taktik-mischformen-zonenverteidigung-mann-gegen-mann-verteidigung-2503373.)
 - [Basketball in der Schule: Die Verteidigung » mobilesport.ch.](https://www.mobilesport.ch/basketball/basketball-in-der-schule-die-verteidigung/.)
 - [Basketball Übungen für verteidigen Verwendung in Ihrem Training?.](https://www.yoursportplanner.com/de/ubungen/basketball-de/verteidigen/.)
+
+## Lernkarten
+
+![Alt text](assets/Learning.jpg)
+
+Hier geht es **bald** zu den Lernkarten.
+
+Zum Lernen der Karten wählen Sie auf der Webseite oben rechts unter New cards den Menüpunkt `Cram` aus.
+
+![Alt text](assets/Cram.png)
+
+Um eine Karteikarte umzublättern klicken Sie diese einfach an.
+
+![Alt text](image.png)
+
+Mit Hilfe der Rückseite überprüfen Sie, ob Sie die Antwort gewusst oder nicht gewusst haben.
+
+- Mit der `Space` Taste zeigen Sie an, dass Sie die Antwort wussten.
+- Mit der `R` Taste zeigen Sie an, dass Sie diese noch nicht wussten.
+
+## Kompetenzcheck
+
+**1. Ordnen Sie die folgenden Beschreibung der jeweils passenden Fintenart zu!**
+
+<!-- 
+    data-randomize 
+    data-solution-button="off"
+    data-max-trials="3" 
+-->
+| Fintenart | Beschreibung                  |
+| ------------- | ------------------------ |
+| [[ Lauffinten | Wurffinten | Passfinten | Dribblefinten | (Schrittfinten) ]] | Das sind Täuschungsschritte, die der Angreifer ausführt, um den Verteidiger zu verwirren und an ihm vorbeizuziehen. |
+| [[ Lauffinten | Wurffinten | Passfinten | (Dribblefinten) | Schrittfinten ]] |  Das sind Handwechsel oder Geschwindigkeitsänderungen, die der Angreifer während des Dribbelns macht, um den Verteidiger auszuspielen oder abzuschütteln. |
+| [[ (Lauffinten) | Wurffinten | Passfinten | Dribblefinten | Schrittfinten ]] | Diese werden vom Angreifer ohne Ball ausgeführt. Sie dienen vor allem dazu sich vom direkten Gegenspieler abzusetzen und in Ballbesitz zu kommen |
+| [[ Lauffinten | Wurffinten | (Passfinten) | Dribblefinten | Schrittfinten ]] | Unter diesen Finten versteht man das Antäuschen eines Passes in einen bestimmte Richtung und das Spielen des Pases in einen andere Richtung. |
+| [[ Lauffinten |(Wurffinten) | Passfinten | Dribblefinten | Schrittfinten ]] | Diese Finte wird angewendet, um den Verteidiger aus seiner stabilen Position herauszubringen. Z.b. durch einen Blick zum Korb und das Über-den-Kopf-nehmen des Balles wird eine Korpwurf fintiert. |
+
+**2. Ordnen Sie die folgenden Beschreibung der jeweils passenden Angriffs-Grundstellungen zu!**
+
+<!-- 
+    data-randomize 
+    data-solution-button="off"
+    data-max-trials="3" 
+-->
+| Grundstellung | Beschreibung             |
+| ------------- | ------------------------ |
+| [[ SPD-Position | Tuck-Stellung | (Facing) ]] | Dies ist die Ausrichtung des Spielers zum Korb. Der Spieler sollte immer mit dem Gesicht zum Korb stehen, um die Wurfmöglichkeiten zu erkennen und den Blickkontakt mit den Mitspielern zu halten. |
+| [[ SPD-Position | (Tuck-Stellung) | Facing ]] | Diese Stellung ist eine Körperhaltung, bei der der Spieler den Ball mit beiden Händen fest umfasst und ihn etwas seitlich am Körper auf Hüfthöhe hält. Damit schützt er den Ball vor dem Verteidiger und ist bereit, ihn zu passen oder zu dribbeln.  |
+| [[ (SPD-Position) | Tuck-Stellung | Facing ]] |  Dies ist die Grundstellung eines Spielers in Ballbesitz. Sie wird auch als Triple-Threat-Position oder Dreifach-Bedrohung bezeichnet. |
+
+**3. Welche Punkte sind in der indivduellen Verteidigung wichtig?**
+
+<!-- 
+    data-randomize 
+    data-solution-button="off"
+    data-max-trials="3" 
+-->
+
+[[x]] Beinarbeit
+[[x]] Armearbeit
+[[x]] Körperhaltung
+[[x]] Antizipation 
+[[ ]] Ballhandling
+[[ ]] Wurfqoute 
+
+**4. Ordnen Sie die folgenden Beschreibung der jeweils passenden Gruppentaktik zu!**
+
+<!-- 
+    data-randomize 
+    data-solution-button="off"
+    data-max-trials="3" 
+-->
+| Gruppentakitk | Beschreibung             |
+| ------------- | ------------------------ |
+| [[ Pick and Roll | (Give and Go) | Mann-Mann-Verteidigung | Zonen-Verteidigung ]] | Dies ist eine Gruppentaktik, die durch zwei Spieler ausgeführt wird. Dabei passt ein Spieler den Ball zu einem Mitspieler und läuft sich dann selbst frei. Der Mitspieler passt den Ball zurück zum ursprünglichen Ballführer, der nun in einer guten Wurfposition ist. |
+| [[ Pick and Roll | Give and Go | Mann-Mann-Verteidigung | (Zonen-Verteidigung) ]] |  Dies ist eine Gruppentaktik, bei der die Spieler nicht einen bestimmten Gegenspieler, sondern einen bestimmten Raum auf dem Spielfeld verteidigen. Dabei teilen sich die Spieler das Spielfeld in verschiedene Zonen auf, die sie je nach Position und Situation übernehmen. Ziel ist es, den Zugang zum Korb zu erschweren, Pässe abzufangen oder Würfe zu blockieren |
+| [[(Pick and Roll) | Give and Go | Mann-Mann-Verteidigung | Zonen-Verteidigung ]] |Dies ist eine Gruppentaktik, die durch zwei Spieler ausgeführt wird. Dabei stellt ein Spieler seinem Mitspieler (dem Ballführer) einen Block, um ihn vom Verteidiger freizubekommen. Anschließend löst sich der Blocksteller vom Block und läuft zum Korb. Der Ballführer kann dann entweder selbst werfen oder den Blocksteller anspielen |
+| [[ Pick and Roll | Give and Go | (Mann-Mann-Verteidigung) | Zonen-Verteidigung ]] | Dies ist eine Gruppentaktik, bei der jeder Spieler einen bestimmten Gegenspieler direkt verteidigt. Dabei versucht der Verteidiger, den Angreifer am Ballbesitz, am Dribbling, am Passen oder am Werfen zu hindern. Ziel ist es, den Gegner unter Druck zu setzen, Fehler zu provozieren oder den Ball zu erobern |
