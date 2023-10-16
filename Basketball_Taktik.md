@@ -38,7 +38,7 @@ Individualtaktiken im Basketball im Angriff sind die gezielten Maßnahmen, die e
 - **Passfinten:** Unter Passfinden versteht man das Antäuschen eines Passes in einen bestimmte Richtung und das Spielen des Pases in einen andere Richtung. Ein sehr bekanntes Beispiel ist der no-look-pass[^2].
 - **Wurffinten:** Eine Wurffinte wird angewendet, um den Verteidiger aus seiner stabilen Position herauszubringen. Z.b. durch einen Blick zum Korb und das Über-den-Kopf-nehmen des Balles wird eine Korpwurf fintiert. Reagiert der Verteidiger daruf wird er sich strecken oder sogar springen, sodass der Verteidiger evtl. an ihm Vorbeidribbeln kann[^2].
 
-[^1]: 1-1 Angreiferschulung – 3 – Basketball Co@ches Corner. https://www.bbcoach.de/wp/1-1-angreiferschulung-3/.
+[^1]: 1-1 Angreiferschulung - 3 - Basketball Co\@ches Corner https://www.bbcoach.de/wp/1-1-angreiferschulung-3/.
 [^2]: Das Spiel mit dem Roten Ball - Adolph&Becker - Kapitel 5.1.1.3
 
 ---
@@ -69,8 +69,8 @@ Die Basketballgrundstellung Tuck-Stellung, das Facing und die SPD-Position sind 
 
 Die SPD-Position ist die Basketballgrundstellung, die aus dem Ein-Kontakt-Stopp oder dem Tuck-Stopp erreicht werden kann. Sie ermöglicht es dem Spieler, explosiv anzutreten, einen Schuss zu nehmen oder einen Pass zu spielen[^3].
 
-[^3]: Einführung der SPD-Position – Basketball Co@ches Corner. https://www.bbcoach.de/wp/einfuhrung-der-spd-position/.
-[^4]: Fangen und Passen, Spielformen – Basketball Co@ches Corner. https://www.bbcoach.de/wp/fangen-und-passen-spielformen/.
+[^3]: Einführung der SPD-Position – Basketball Co\@ches Corner. https://www.bbcoach.de/wp/einfuhrung-der-spd-position/.
+[^4]: Fangen und Passen, Spielformen – Basketball Co\@ches Corner. https://www.bbcoach.de/wp/fangen-und-passen-spielformen/.
 [^5]: SPD-Stellung – Wikipedia. https://de.wikipedia.org/wiki/SPD-Stellung.
 
 ## Individualtaktiken in der Verteidigung
@@ -109,7 +109,7 @@ Die Körperstellung in der Verteidigung im Basketball ist eine wichtige Grundlag
 Die Körperstellung in der Verteidigung im Basketball sollte immer an die Spielsituation angepasst werden. Zum Beispiel sollte der Spieler seinen Abstand zum Gegenspieler je nach dessen Stärken und Schwächen variieren. Wenn der Gegenspieler ein guter Distanzschütze ist, sollte der Spieler näher an ihm dran sein, um den Wurf zu erschweren. Wenn der Gegenspieler ein guter Penetrator ist, sollte der Spieler etwas mehr Abstand halten, um den Zug zum Korb zu verhindern[^8].
 
 [^8]: Die Verteidigung im Basketball - VIBSS. https://vibss.de/fileadmin/Medienablage/Sportpraxis/PH_Basketball/PH_Basketball_-_Verteidigung.pdf.
-[^9]: 14. Unterrichtseinheit: Verteidigung MMV (Mann-Mann-Verteidigung) - DBB. https://www.basketball-bund.de/wp-content/uploads/UE-14-Verteidigung-MMV-Mann-Mann-Verteidigung.pdf.
+[^9]: Unterrichtseinheit 14: Verteidigung MMV (Mann-Mann-Verteidigung) - DBB. https://www.basketball-bund.de/wp-content/uploads/UE-14-Verteidigung-MMV-Mann-Mann-Verteidigung.pdf.
 
 ## Gruppentaktik im Angriff
 
