@@ -71,7 +71,7 @@ Die SPD-Position ist die Basketballgrundstellung, die aus dem Ein-Kontakt-Stopp 
 
 [^3]: Einführung der SPD-Position – Basketball Co@ches Corner. https://www.bbcoach.de/wp/einfuhrung-der-spd-position/.
 [^4]: Fangen und Passen, Spielformen – Basketball Co@ches Corner. https://www.bbcoach.de/wp/fangen-und-passen-spielformen/.
-[^5] SPD-Stellung – Wikipedia. https://de.wikipedia.org/wiki/SPD-Stellung.
+[^5]: SPD-Stellung – Wikipedia. https://de.wikipedia.org/wiki/SPD-Stellung.
 
 ## Individualtaktiken in der Verteidigung
 
